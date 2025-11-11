@@ -1,0 +1,108 @@
+[
+  {
+    "Id": 1,
+    "nome": "Ana Clara Oliveira",
+    "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZSUyMGZlbWFsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cargo": "Desenvolvedora Front-End Sênior",
+    "resumo": "Especialista em React e Tailwind, apaixonada por criar interfaces de usuário intuitivas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Tailwind CSS", "TypeScript", "Node.js"],
+    "softSkills": ["Comunicação", "Liderança", "Resiliência", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "TechFin Soluções",
+        "cargo": "Dev Front-End Sênior",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Liderança técnica da equipe de front-end, responsável pela arquitetura da SPA."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Investimentos",
+        "link": "https://github.com",
+        "descricao": "Refatoração completa do app de investimentos usando React e TypeScript."
+      }
+    ],
+    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "arealnteresses": ["IA ética", "Design Systems", "Educação em TI"]
+  },
+  {
+    "Id": 2,
+    "nome": "Bruno Martins",
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7e8f05d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZSUyMG1hbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "cargo": "Designer UX/UI Pleno",
+    "resumo": "Focado em projetar experiências B2B que resolvem problemas complexos.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "User Research", "Prototipação"],
+    "softSkills": ["Empatia", "Colaboração", "Pensamento Crítico"],
+    "experiencias": [
+      {
+        "empresa": "DesignNow",
+        "cargo": "UX/UI Designer",
+        "inicio": "2021-06",
+        "fim": "Atual",
+        "descricao": "Condução de testes de usabilidade e criação de wireframes e protótipos de alta fidelidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUCPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Certified UX Designer by Google"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "arealnteresses": ["Acessibilidade Web", "SaaS", "Gamificação"]
+  },
+  {
+    "Id": 3,
+    "nome": "Carlos Silva",
+    "cargo": "Engenheiro de Dados",
+    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZSUyMG1hbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "resumo": "Engenheiro de Dados com foco em pipelines de ETL e visualização em Power BI.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI", "Spark", "Airflow"],
+    "softSkills": ["Resolução de Problemas", "Comunicação", "Trabalho em Equipe"],
+    "experiencias": [
+      {
+        "empresa": "VarejoNacional",
+        "cargo": "Analista de BI",
+        "inicio": "2020-01",
+        "fim": "2023-05",
+        "descricao": "Criação de dashboards para a diretoria comercial."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Microsoft Certified: Data Analyst Associate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "arealnteresses": ["Big Data", "Machine Learning", "Cloud Computing"]
+  }
+]
