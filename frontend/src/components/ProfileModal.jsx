@@ -1,9 +1,8 @@
-import React from 'react';
 import { X } from 'lucide-react';
 
 export default function ProfileModal({ profile, onClose }) {
   
-  // Funções para os botões de ação [cite: 24]
+  // Funções para os botões de ação
   const handleRecommend = () => {
     alert(`Você recomendou ${profile.nome}!`);
   };
@@ -15,7 +14,7 @@ export default function ProfileModal({ profile, onClose }) {
   return (
     // Overlay
     <div 
-      className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4"
+      className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4 cursor-pointer"
       onClick={onClose} // Fecha ao clicar fora
     >
       {/* Conteúdo do Modal */}
@@ -24,10 +23,9 @@ export default function ProfileModal({ profile, onClose }) {
         onClick={e => e.stopPropagation()} // Impede de fechar ao clicar dentro
       >
         {/* Header do Modal */}
-        <div className="flex justify-between items-center p-4 border-b dark:border-gray-700">
-          <h2 className="text-2xl font-bold">{profile.nome}</h2>
+        <div className="flex justify-end p-1">
           <button onClick={onClose} className="p-1 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700">
-            <X size={24} />
+            <X size={16} />
           </button>
         </div>
 
@@ -40,17 +38,18 @@ export default function ProfileModal({ profile, onClose }) {
               className="w-32 h-32 rounded-full object-cover" 
             />
             <div>
-              <h3 className="text-xl font-semibold text-blue-600 dark:text-blue-400">{profile.cargo}</h3>
+              <h3 className="text-xl font-semibold text-blue-700 dark:text-blue-400">{profile.nome}</h3>
+              <p className="text-sm text-gray-500 dark:text-gray-400">{profile.cargo}</p>
               <p className="text-sm text-gray-500 dark:text-gray-400">{profile.localizacao}</p>
               <p className="mt-2">{profile.resumo}</p>
             </div>
           </div>
 
-          {/* Informações Pessoais e Acadêmicas [cite: 21] */}
+          {/* Informações Pessoais e Acadêmicas*/}
           <div className="mt-6">
             <h4 className="text-lg font-semibold border-b dark:border-gray-700 pb-1 mb-2">Formação Acadêmica</h4>
-            {profile.formacao.map((form, idx) => (
-              <div key={idx} className="mb-2">
+            {profile.formacao.map((form) => (
+              <div key={`${form.instituicao}-${form.curso}`} className="mb-2">
                 <p className="font-bold">{form.curso}</p>
                 <p className="text-sm">{form.instituicao} - {form.ano}</p>
               </div>
@@ -60,8 +59,8 @@ export default function ProfileModal({ profile, onClose }) {
           {/* Experiências e Habilidades [cite: 22] */}
           <div className="mt-6">
             <h4 className="text-lg font-semibold border-b dark:border-gray-700 pb-1 mb-2">Experiências</h4>
-            {profile.experiencias.map((exp, idx) => (
-              <div key={idx} className="mb-2">
+            {profile.experiencias.map((exp) => (
+              <div key={`${exp.empresa}-${exp.cargo}`} className="mb-2">
                 <p className="font-bold">{exp.cargo} @ {exp.empresa}</p>
                 <p className="text-sm text-gray-500 dark:text-gray-400">{exp.inicio} - {exp.fim}</p>
                 <p className="text-sm">{exp.descricao}</p>

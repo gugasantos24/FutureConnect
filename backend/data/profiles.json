@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "nome": "Ana Clara Oliveira",
-    "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZSUyMGZlbWFsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
     "cargo": "Desenvolvedora Front-End Sênior",
     "resumo": "Especialista em React e Tailwind, apaixonada por criar interfaces de usuário intuitivas.",
     "localizacao": "São Paulo/SP",
@@ -41,10 +41,10 @@
   },
   {
     "Id": 2,
-    "nome": "Bruno Martins",
-    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7e8f05d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZSUyMG1hbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "nome": "Bruna Martins",
+    "foto": "https://images.unsplash.com/photo-1619895862022-09114b41f16f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
     "cargo": "Designer UX/UI Pleno",
-    "resumo": "Focado em projetar experiências B2B que resolvem problemas complexos.",
+    "resumo": "Focada em projetar experiências B2B que resolvem problemas complexos.",
     "localizacao": "Curitiba/PR",
     "area": "Design",
     "habilidadesTecnicas": ["Figma", "Adobe XD", "User Research", "Prototipação"],
