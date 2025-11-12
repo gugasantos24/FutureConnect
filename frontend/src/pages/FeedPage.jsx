@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ProfileCard from "../components/ProfileCard.jsx";
 import ProfileModal from "../components/ProfileModal.jsx";
 import SearchBar from "../components/SearchBar.jsx";
+import Logo from "../assets/Logo.png"
 import { Sun, Moon } from 'lucide-react';
 
 export default function FeedPage() {
@@ -62,7 +63,7 @@ export default function FeedPage() {
         <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
         
         <header className="container mx-auto p-6 flex justify-between items-center">
-            <h1 className="text-3xl font-bold text-blue-600 dark:text-blue-400">FutureConnect</h1>
+            <img src={Logo} alt="Logo" className='w-xs object-contain justify-between'/>
             <button
             onClick={toggleDarkMode}
             className="p-2 rounded-full bg-gray-200 dark:bg-gray-700"
