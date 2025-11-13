@@ -1,108 +1,4040 @@
 [
   {
-    "Id": 1,
-    "nome": "Ana Clara Oliveira",
-    "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-    "cargo": "Desenvolvedora Front-End Sênior",
-    "resumo": "Especialista em React e Tailwind, apaixonada por criar interfaces de usuário intuitivas.",
-    "localizacao": "São Paulo/SP",
-    "area": "Desenvolvimento",
-    "habilidadesTecnicas": ["React", "Tailwind CSS", "TypeScript", "Node.js"],
-    "softSkills": ["Comunicação", "Liderança", "Resiliência", "Mentoria"],
+    "id": 1,
+    "nome": "Cauê Rezende",
+    "foto": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "UX/UI Designer",
+    "resumo": "Revolutionize distributed metrics",
+    "localizacao": "Melo/SE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Airflow",
+      "Node.js",
+      "Azure",
+      "JavaScript",
+      "Java"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Resiliência",
+      "Trabalho em Equipe",
+      "Proatividade"
+    ],
     "experiencias": [
       {
-        "empresa": "TechFin Soluções",
-        "cargo": "Dev Front-End Sênior",
-        "inicio": "2022-01",
+        "empresa": "Guerra",
+        "cargo": "UX/UI Designer",
+        "inicio": "2020-03",
         "fim": "Atual",
-        "descricao": "Liderança técnica da equipe de front-end, responsável pela arquitetura da SPA."
+        "descricao": "Dolores praesentium aliquid. Consectetur ea alias nihil.\nNulla odio quas expedita. Odio alias pariatur vitae quisquam quis ea voluptate. Architecto quasi quos."
+      },
+      {
+        "empresa": "Mendes e Filhos",
+        "cargo": "Product Manager",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Atque quia pariatur incidunt ipsum a. Eaque nisi accusantium repellat id amet itaque expedita. Libero facere veniam voluptatem.\nId similique architecto ex ad libero. Aperiam error aspernatur est."
+      },
+      {
+        "empresa": "Mendonça Alves e Filhos",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2023-01",
+        "fim": "Atual",
+        "descricao": "Adipisci perferendis odio aliquam quae ipsum vel doloremque. Dolores optio officia placeat sunt consectetur. Commodi repudiandae aperiam odio dolores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Mackenzie",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "Sustentabilidade", "Fintechs"]
+  },
+  {
+    "id": 2,
+    "nome": "Henry Sales",
+    "foto": "https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Analista de DevOps",
+    "resumo": "Harness efficient synergies",
+    "localizacao": "Teixeira/PB",
+    "area": "QA",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "Azure",
+      "Power BI",
+      "Terraform",
+      "Spark",
+      "Java",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em Equipe",
+      "Pensamento Crítico",
+      "Gestão de Tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Lima",
+        "cargo": "Tech Lead",
+        "inicio": "2022-10",
+        "fim": "2025-02",
+        "descricao": "Eaque molestias quae autem necessitatibus rem. Cumque sapiente molestiae voluptatem dolore cumque. Atque laboriosam nesciunt molestias eaque consequatur."
+      },
+      {
+        "empresa": "da Cruz Ltda.",
+        "cargo": "Tech Lead",
+        "inicio": "2021-02",
+        "fim": "Atual",
+        "descricao": "Quod delectus possimus nisi maiores repellat. Voluptatum magnam non.\nPerferendis fuga reiciendis non iure iusto. Dicta aspernatur numquam natus velit natus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Unicamp",
+        "ano": 2016
+      },
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O conforto de concretizar seus projetos mais rapidamente",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Error porro dolorum incidunt iusto occaecati. Vel saepe autem cum. Reprehenderit explicabo perferendis eius assumenda."
+      },
+      {
+        "titulo": "O conforto de ganhar mais facilmente",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Unde provident aut id doloribus explicabo. Cumque tenetur maxime nulla."
+      },
+      {
+        "titulo": "A arte de atingir seus objetivos antes de tudo",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Minima fugit dicta sint sequi at. Voluptatibus illo voluptate. Dolorem omnis similique error asperiores."
+      }
+    ],
+    "certificacoes": ["SQL", "GCP", "TypeScript"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "Open Source"]
+  },
+  {
+    "id": 3,
+    "nome": "Cecilia Aparecida",
+    "foto": "https://images.unsplash.com/photo-1619895862022-09114b41f16f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Scale dot-com systems",
+    "localizacao": "Gonçalves/RO",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "Spark",
+      "MongoDB",
+      "Terraform",
+      "Docker"
+    ],
+    "softSkills": [
+      "Gestão de Tempo",
+      "Trabalho em Equipe",
+      "Liderança",
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Lopes",
+        "cargo": "Analista de QA",
+        "inicio": "2017-02",
+        "fim": "Atual",
+        "descricao": "Quasi placeat impedit quam fuga tempore. Odio placeat quas numquam debitis.\nNostrum nobis ea aperiam. Libero molestias ad assumenda deleniti magnam laudantium."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2013
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Udemy",
+        "ano": 2010
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Blockchain",
+      "Sustentabilidade",
+      "IA ética",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Caroline Farias",
+    "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Iterate dot-com channels",
+    "localizacao": "Duarte/PA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Spring Boot", "Airflow", "GCP", "Spark"],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em Equipe",
+      "Comunicação",
+      "Gestão de Tempo",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Mendes S/A",
+        "cargo": "Tech Lead",
+        "inicio": "2017-07",
+        "fim": "Atual",
+        "descricao": "Placeat illum maxime in. Error ea totam.\nId nemo eveniet non. Maiores commodi reiciendis a sequi unde laboriosam ipsa."
+      },
+      {
+        "empresa": "Ferreira",
+        "cargo": "Tech Lead",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Deserunt itaque mollitia voluptatum ea doloremque quaerat. Modi error molestias nam sint. Nostrum magni neque voluptates."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Unicamp",
+        "ano": 2011
+      },
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A segurança de conseguir mais facilmente",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Consectetur eligendi officiis temporibus. Voluptas dolores perferendis accusantium. Facilis adipisci voluptatem necessitatibus dolores expedita."
+      },
+      {
+        "titulo": "A certeza de conseguir em estado puro",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Odio eos magni itaque. Sit iure ea sunt maiores. Maxime nam soluta molestias quis eius error.\nConsequuntur ratione ea ad laborum distinctio soluta."
+      },
+      {
+        "titulo": "O poder de conseguir mais facilmente",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Necessitatibus voluptates ex. Fugit similique saepe fugit adipisci."
+      }
+    ],
+    "certificacoes": ["Spring Boot", "Figma"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "IA ética", "Fintechs"]
+  },
+  {
+    "id": 5,
+    "nome": "José Pedro Pereira",
+    "foto": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=1148&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Analista de QA",
+    "resumo": "Whiteboard transparent interfaces",
+    "localizacao": "Rezende de Freitas/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "Spark",
+      "Docker",
+      "Node.js",
+      "JavaScript",
+      "Kubernetes",
+      ".NET"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Trabalho em Equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Araújo",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-10",
+        "fim": "2024-06",
+        "descricao": "Rem exercitationem ex repellendus totam dolor perspiciatis. Non repellat aspernatur nesciunt molestiae dolorem iste. Quos exercitationem quisquam porro."
+      },
+      {
+        "empresa": "Peixoto S/A",
+        "cargo": "Analista de QA",
+        "inicio": "2019-12",
+        "fim": "2023-06",
+        "descricao": "A adipisci ipsa earum. Delectus aperiam cupiditate aliquid incidunt eveniet. Cum sint placeat quod delectus assumenda dolores.\nIpsa cumque sunt natus tempore. Ea similique repudiandae fugit."
+      },
+      {
+        "empresa": "Vasconcelos",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2023-02",
+        "fim": "Atual",
+        "descricao": "Dignissimos cum modi. Deserunt veniam animi neque. Officiis neque nesciunt totam qui debitis a.\nDeserunt a nulla explicabo iusto sed nulla in. Deserunt id vitae ratione eum. Recusandae aut minus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Udemy",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A simplicidade de conseguir de maneira eficaz",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Vel fugit id odit hic soluta numquam vel. Dolor vero quia temporibus. Esse ab cum velit."
+      },
+      {
+        "titulo": "A vantagem de conseguir mais facilmente",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Asperiores sapiente autem dolor repellendus deserunt. Nulla deserunt optio sunt atque commodi."
+      },
+      {
+        "titulo": "A vantagem de realizar seus sonhos de maneira eficaz",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Praesentium repellendus magni quae eos sint fugit neque. Dolorum aliquam ex. Veniam ipsam commodi ducimus doloribus libero et."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Educação", "Blockchain", "Fintechs"]
+  },
+  {
+    "id": 6,
+    "nome": "Bella Castro",
+    "foto": "https://plus.unsplash.com/premium_photo-1690407617686-d449aa2aad3c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Tech Lead",
+    "resumo": "Incubate compelling e-business",
+    "localizacao": "Duarte/RN",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Spring Boot",
+      "Java",
+      "Kubernetes",
+      "Figma",
+      "Terraform"
+    ],
+    "softSkills": ["Liderança", "Resiliência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Alves Barbosa S.A.",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2017-05",
+        "fim": "Atual",
+        "descricao": "Rem accusamus tenetur harum quibusdam ratione. Asperiores maiores voluptatibus ipsa aut adipisci quae.\nSed suscipit ab in. Cupiditate iste repudiandae eos beatae possimus minus."
+      },
+      {
+        "empresa": "da Rosa e Filhos",
+        "cargo": "Analista de DevOps",
+        "inicio": "2021-10",
+        "fim": "2025-02",
+        "descricao": "Vel ipsam culpa architecto. Eius error mollitia.\nDeleniti nobis hic. Error porro recusandae perferendis. Esse dolorum hic laborum."
+      },
+      {
+        "empresa": "Moura",
+        "cargo": "Tech Lead",
+        "inicio": "2024-06",
+        "fim": "2024-12",
+        "descricao": "Quia eaque at ut. Nostrum odio expedita hic quia quod non.\nTempora reprehenderit illum architecto delectus."
       }
     ],
     "formacao": [
       {
         "curso": "Engenharia de Software",
         "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Python"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Computação em Nuvem",
+      "Saúde Digital",
+      "Educação"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Bruno Cassiano",
+    "foto": "https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Morph next-generation markets",
+    "localizacao": "da Luz das Flores/TO",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Figma", "Spark", "Java", "AWS"],
+    "softSkills": ["Adaptabilidade", "Gestão de Tempo", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "Alves",
+        "cargo": "Analista de QA",
+        "inicio": "2024-10",
+        "fim": "2025-06",
+        "descricao": "Ratione ea ex aliquid. Nam tempora quia fugit velit. Pariatur possimus nesciunt accusantium."
+      },
+      {
+        "empresa": "Monteiro Ferreira S.A.",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2023-01",
+        "fim": "Atual",
+        "descricao": "Optio amet blanditiis occaecati unde veniam inventore. Praesentium praesentium temporibus corporis veritatis molestiae earum cupiditate. Atque cumque culpa id possimus enim ducimus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A simplicidade de realizar seus sonhos com força total",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Illo natus accusamus. Corrupti minus eos similique inventore suscipit. Vitae a perferendis."
+      }
+    ],
+    "certificacoes": ["React", "Docker", "Azure"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "Fintechs"]
+  },
+  {
+    "id": 8,
+    "nome": "Nina Lima",
+    "foto": "https://plus.unsplash.com/premium_photo-1688350839154-1a131bccd78a?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Enable granular e-business",
+    "localizacao": "Leão/AL",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      ".NET",
+      "SQL",
+      "React",
+      "Power BI",
+      "Docker",
+      "Figma",
+      "AWS",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Gestão de Tempo",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Oliveira",
+        "cargo": "Product Manager",
+        "inicio": "2017-12",
+        "fim": "Atual",
+        "descricao": "Hic labore excepturi assumenda perferendis ipsam cumque.\nArchitecto cum iusto enim. Adipisci vitae facere molestiae nihil non. Suscipit illo temporibus mollitia."
+      },
+      {
+        "empresa": "Campos S/A",
+        "cargo": "Analista de DevOps",
+        "inicio": "2021-06",
+        "fim": "Atual",
+        "descricao": "Inventore distinctio quibusdam maiores. Saepe vel esse in dolores placeat perspiciatis.\nSapiente sequi cupiditate eos. Aperiam enim beatae quis."
+      },
+      {
+        "empresa": "Vieira - ME",
+        "cargo": "UX/UI Designer",
+        "inicio": "2021-11",
+        "fim": "2024-01",
+        "descricao": "Modi ipsa consectetur eveniet expedita velit impedit.\nIn recusandae voluptatem quod explicabo vel perspiciatis. Sapiente esse labore ullam aliquam quibusdam. Exercitationem aperiam delectus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-SP",
+        "ano": 2021
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Alura",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["JavaScript"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Educação", "IA ética"]
+  },
+  {
+    "id": 9,
+    "nome": "Mario Fonseca",
+    "foto": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Revolutionize efficient deliverables",
+    "localizacao": "Alves Verde/MS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "GCP",
+      "Python",
+      "Spark",
+      "JavaScript",
+      "SQL",
+      "C#"
+    ],
+    "softSkills": ["Comunicação", "Liderança", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "Marques da Mota S.A.",
+        "cargo": "Tech Lead",
+        "inicio": "2019-09",
+        "fim": "2024-01",
+        "descricao": "Distinctio iste sit in eveniet. Nam ratione quos deserunt quisquam incidunt.\nEx voluptatibus nam accusantium cupiditate ad. Voluptates enim veritatis quaerat."
+      },
+      {
+        "empresa": "da Rosa",
+        "cargo": "Analista de DevOps",
+        "inicio": "2017-06",
+        "fim": "Atual",
+        "descricao": "Minima sed impedit voluptatibus.\nMolestiae totam alias libero distinctio. Occaecati pariatur ducimus voluptatem dolorum repellat optio deserunt. Quas odit recusandae alias fugiat debitis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FGV",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A vantagem de atingir seus objetivos com força total",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Quia est doloribus mollitia animi doloribus ut corporis. In voluptate maxime necessitatibus. Doloremque optio perspiciatis deleniti."
+      },
+      {
+        "titulo": "A vantagem de mudar com força total",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Quo distinctio ab. Dolore magnam necessitatibus. Necessitatibus repudiandae quasi vitae est et temporibus minus."
+      }
+    ],
+    "certificacoes": ["JavaScript", "Python", "Terraform"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Blockchain",
+      "Open Source",
+      "Computação em Nuvem",
+      "Educação"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Giovanni Pinto",
+    "foto": "https://plus.unsplash.com/premium_photo-1689565611422-b2156cc65e47?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Tech Lead",
+    "resumo": "Unleash integrated methodologies",
+    "localizacao": "Moura das Pedras/RO",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "C#",
+      "JavaScript",
+      "GCP",
+      "Spark",
+      "Spring Boot",
+      "Python"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento Crítico",
+      "Liderança",
+      "Proatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Ramos",
+        "cargo": "Cientista de Dados",
+        "inicio": "2017-05",
+        "fim": "Atual",
+        "descricao": "Accusamus voluptatibus eum est deleniti. Fugiat reprehenderit asperiores quos aspernatur eum illum aut."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Mackenzie",
+        "ano": 2018
+      },
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "PUC-SP",
         "ano": 2021
       }
     ],
     "projetos": [
       {
-        "titulo": "Plataforma de Investimentos",
-        "link": "https://github.com",
-        "descricao": "Refatoração completa do app de investimentos usando React e TypeScript."
+        "titulo": "O direito de avançar sem preocupação",
+        "link": "https://www.google.com/?hl=pt_BR&zx=1762985452071&no_sw_cr=1",
+        "descricao": "Dolorum perferendis commodi veniam ipsa. Qui cupiditate beatae amet quod dolor perspiciatis."
       }
     ],
-    "certificacoes": ["AWS Certified Cloud Practitioner"],
+    "certificacoes": ["Java"],
     "idiomas": [
-      { "idioma": "Inglês", "nivel": "Avançado" },
-      { "idioma": "Espanhol", "nivel": "Intermediário" }
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
     ],
-    "arealnteresses": ["IA ética", "Design Systems", "Educação em TI"]
+    "areaInteresses": ["Sustentabilidade", "Open Source"]
   },
   {
-    "Id": 2,
-    "nome": "Bruna Martins",
-    "foto": "https://images.unsplash.com/photo-1619895862022-09114b41f16f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-    "cargo": "Designer UX/UI Pleno",
-    "resumo": "Focada em projetar experiências B2B que resolvem problemas complexos.",
-    "localizacao": "Curitiba/PR",
-    "area": "Design",
-    "habilidadesTecnicas": ["Figma", "Adobe XD", "User Research", "Prototipação"],
-    "softSkills": ["Empatia", "Colaboração", "Pensamento Crítico"],
+    "id": 11,
+    "nome": "Luis Martins",
+    "foto": "https://images.unsplash.com/photo-1475021200099-fd2cbb889dd1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Productize open-source e-tailers",
+    "localizacao": "Azevedo Alegre/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Airflow",
+      "JavaScript",
+      "AWS",
+      "GCP",
+      "SQL",
+      "Azure",
+      "MongoDB",
+      ".NET"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Liderança",
+      "Resiliência",
+      "Comunicação",
+      "Gestão de Tempo"
+    ],
     "experiencias": [
       {
-        "empresa": "DesignNow",
-        "cargo": "UX/UI Designer",
-        "inicio": "2021-06",
+        "empresa": "Nunes Sales - ME",
+        "cargo": "Cientista de Dados",
+        "inicio": "2023-04",
+        "fim": "2023-08",
+        "descricao": "Sit provident sint perspiciatis autem. Vitae ipsa consequatur.\nSaepe earum voluptatum quibusdam adipisci mollitia. Quos beatae cum error dolorum minus ea."
+      },
+      {
+        "empresa": "Nascimento - ME",
+        "cargo": "Tech Lead",
+        "inicio": "2016-01",
         "fim": "Atual",
-        "descricao": "Condução de testes de usabilidade e criação de wireframes e protótipos de alta fidelidade."
+        "descricao": "Ratione laboriosam minus ex dolore autem. Sunt iste numquam aspernatur totam consequuntur.\nMagnam exercitationem officiis nesciunt nobis. Autem adipisci libero fuga vel aut quidem."
+      },
+      {
+        "empresa": "Pacheco",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2024-06",
+        "fim": "2025-02",
+        "descricao": "Odio totam officiis quae voluptate ipsam. Odio animi nisi rerum ipsam perferendis.\nIusto facere eius labore aut cupiditate iusto. Magni nulla architecto. Itaque cupiditate numquam quas."
       }
     ],
     "formacao": [
       {
-        "curso": "Design Digital",
-        "instituicao": "PUCPR",
-        "ano": 2020
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Coursera",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "PUC-SP",
+        "ano": 2014
       }
     ],
     "projetos": [],
-    "certificacoes": ["Certified UX Designer by Google"],
+    "certificacoes": ["Airflow", "Java", "Spring Boot"],
     "idiomas": [
-      { "idioma": "Inglês", "nivel": "Fluente" }
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
     ],
-    "arealnteresses": ["Acessibilidade Web", "SaaS", "Gamificação"]
+    "areaInteresses": ["Sustentabilidade", "Computação em Nuvem"]
   },
   {
-    "Id": 3,
-    "nome": "Carlos Silva",
-    "cargo": "Engenheiro de Dados",
-    "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZSUyMG1hbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "resumo": "Engenheiro de Dados com foco em pipelines de ETL e visualização em Power BI.",
-    "localizacao": "Recife/PE",
-    "area": "Dados",
-    "habilidadesTecnicas": ["Python", "SQL", "Power BI", "Spark", "Airflow"],
-    "softSkills": ["Resolução de Problemas", "Comunicação", "Trabalho em Equipe"],
+    "id": 12,
+    "nome": "Karla da Costa",
+    "foto": "https://images.unsplash.com/photo-1533689476487-034f57831a58?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Incentivize 24/7 e-tailers",
+    "localizacao": "Gomes de Cassiano/RN",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Kubernetes", "Terraform", "Azure", "Figma", "GCP"],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento Crítico",
+      "Resiliência",
+      "Adaptabilidade",
+      "Gestão de Tempo"
+    ],
     "experiencias": [
       {
-        "empresa": "VarejoNacional",
-        "cargo": "Analista de BI",
-        "inicio": "2020-01",
-        "fim": "2023-05",
-        "descricao": "Criação de dashboards para a diretoria comercial."
+        "empresa": "Borges",
+        "cargo": "Analista de DevOps",
+        "inicio": "2021-01",
+        "fim": "2022-08",
+        "descricao": "Delectus magni sed atque sit voluptatem fuga.\nSuscipit labore dignissimos quos minus quos quae. Odit nostrum dolores pariatur deleniti."
       }
     ],
     "formacao": [
       {
         "curso": "Ciência da Computação",
-        "instituicao": "UFPE",
+        "instituicao": "Mackenzie",
+        "ano": 2011
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O poder de evoluir antes de tudo",
+        "link": "http://pastor.br/",
+        "descricao": "Exercitationem in iure cum pariatur libero dignissimos.\nIncidunt nemo natus modi. Error quisquam reiciendis a perferendis."
+      },
+      {
+        "titulo": "A segurança de inovar mais rapidamente",
+        "link": "https://garcia.br/",
+        "descricao": "Error expedita quae nihil magnam doloribus quaerat. Asperiores deserunt excepturi voluptates porro ab. Deleniti laudantium occaecati unde."
+      }
+    ],
+    "certificacoes": ["JavaScript", "React", ".NET"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["IA ética", "Blockchain", "Open Source", "Educação"]
+  },
+  {
+    "id": 13,
+    "nome": "Mario Balotelli",
+    "foto": "https://www.gremistas.net/wp-content/uploads/balotelli-corinthians-gremio.jpg",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Grow interactive convergence",
+    "localizacao": "Oliveira de Porto/PB",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "JavaScript",
+      "Python",
+      "Spark",
+      "C#",
+      "Docker",
+      "Airflow"
+    ],
+    "softSkills": ["Trabalho em Equipe", "Adaptabilidade", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Barros da Paz S/A",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2019-02",
+        "fim": "Atual",
+        "descricao": "Nobis libero perspiciatis temporibus. Iure eos molestias iste error expedita.\nDeserunt eum voluptatum. Distinctio qui reiciendis saepe. Deleniti voluptate amet iure dignissimos."
+      },
+      {
+        "empresa": "Castro",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2023-05",
+        "fim": "Atual",
+        "descricao": "Maiores temporibus reprehenderit sunt quod quos ipsa modi. Perferendis vitae pariatur.\nDistinctio quas distinctio. Atque dolore aperiam nisi esse sint."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FGV",
+        "ano": 2011
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Spring Boot", "Terraform", "SQL"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "Educação", "IA ética"]
+  },
+  {
+    "id": 14,
+    "nome": "Edina Alves",
+    "foto": "https://www.jornalcruzeiro.com.br/_midias/jpg/2023/04/01/edina_alves_e_1___arbitra_em_final_paulista-1108351.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Whiteboard magnetic paradigms",
+    "localizacao": "Rezende Verde/AM",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Airflow",
+      "Figma",
+      "JavaScript",
+      "Terraform",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Gestão de Tempo",
+      "Liderança",
+      "Trabalho em Equipe",
+      "Proatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "das Neves S.A.",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2022-10",
+        "fim": "2023-03",
+        "descricao": "Veritatis fugiat officia tempora mollitia commodi sunt sit. Nulla quas aperiam. Odit repudiandae ea necessitatibus nobis esse.\nRecusandae enim illo quas voluptatum. Eos modi ipsa."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "USP",
+        "ano": 2020
+      },
+      {
+        "curso": "Design Digital",
+        "instituicao": "Mackenzie",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A vantagem de ganhar antes de tudo",
+        "link": "http://albuquerque.net/",
+        "descricao": "In aliquid nulla facere voluptates nesciunt. Consectetur totam laboriosam consequuntur. Voluptas necessitatibus dolorem non quos aspernatur debitis."
+      }
+    ],
+    "certificacoes": ["Spark"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Sustentabilidade",
+      "Saúde Digital",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Wilton Pereira Sampaio ",
+    "foto": "https://observatorioracialfutebol.com.br/wp-content/uploads/2022/11/FiG0WyDWQDYeFPP.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Incubate global action-items",
+    "localizacao": "Peixoto de Rodrigues/AM",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Spring Boot",
+      "Figma",
+      "GCP",
+      "Node.js",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Resiliência",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "da Rosa Fernandes e Filhos",
+        "cargo": "Analista de DevOps",
+        "inicio": "2023-04",
+        "fim": "Atual",
+        "descricao": "Quidem eum possimus porro consequatur modi asperiores. Quae aliquam voluptatem quam quos qui."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Coursera",
+        "ano": 2017
+      },
+      {
+        "curso": "Design Digital",
+        "instituicao": "Alura",
+        "ano": 2021
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Figma", "Azure"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Fintechs", "Open Source"]
+  },
+  {
+    "id": 16,
+    "nome": "Rafael Claus",
+    "foto": "https://3vv.com.br/novo/wp-content/uploads/2025/03/palmeiras-0x1-corinthians-arbitro-raphael-claus-2025-03-16-credito-cesar-greco-773x380.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Grow scalable solutions",
+    "localizacao": "Melo de Minas/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Terraform", "Spark", "Spring Boot", "Java", "C#"],
+    "softSkills": ["Trabalho em Equipe", "Resiliência", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Pimenta",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Laudantium nam repudiandae non facere molestiae ipsum. Officia reprehenderit amet maiores repudiandae esse quisquam dolorem.\nQuisquam nostrum officia ad esse provident blanditiis ducimus."
+      },
+      {
+        "empresa": "Macedo",
+        "cargo": "Tech Lead",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Iusto voluptas vero quam. Rem quae esse sint ad nobis maiores.\nVoluptate atque officia harum perspiciatis. Qui sunt aperiam quo id. Nemo quisquam repellendus aliquid deleniti in officiis."
+      },
+      {
+        "empresa": "Andrade S/A",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Temporibus consectetur repudiandae animi. Dolorum cumque nulla labore doloremque quod.\nFacilis esse consequuntur quibusdam. Dicta fugiat consequatur numquam officia quaerat."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "PUC-SP",
+        "ano": 2012
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-SP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de realizar seus sonhos direto da fonte",
+        "link": "http://da.br/",
+        "descricao": "Facilis sunt adipisci aut necessitatibus. Exercitationem labore aliquam ut ullam corrupti."
+      }
+    ],
+    "certificacoes": ["TypeScript", "MongoDB", "GCP"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Blockchain"]
+  },
+  {
+    "id": 17,
+    "nome": "Anderson Daronco",
+    "foto": "https://www.cearasc.com/media/img/noticias/daronco_-_20240914-123617_2080526_2871_CiHmbAw.webp",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Transition enterprise models",
+    "localizacao": "Moraes de Rodrigues/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["AWS", "React", "Spring Boot", "Airflow"],
+    "softSkills": [
+      "Gestão de Tempo",
+      "Adaptabilidade",
+      "Trabalho em Equipe",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Marques",
+        "cargo": "Cientista de Dados",
+        "inicio": "2017-06",
+        "fim": "Atual",
+        "descricao": "Ipsa eum enim accusamus nisi accusantium repellendus. Modi dolore officiis quos voluptas omnis. Ipsam temporibus dignissimos sint."
+      },
+      {
+        "empresa": "da Conceição",
+        "cargo": "Analista de DevOps",
+        "inicio": "2023-07",
+        "fim": "Atual",
+        "descricao": "Repellat accusamus doloribus dicta blanditiis sed doloremque earum. Deserunt hic quos.\nLabore perferendis minima unde culpa. Recusandae ipsam voluptate tenetur distinctio ut officiis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Unicamp",
+        "ano": 2017
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
         "ano": 2019
       }
     ],
     "projetos": [],
-    "certificacoes": ["Microsoft Certified: Data Analyst Associate"],
+    "certificacoes": ["Spark", "Terraform", "GCP"],
     "idiomas": [
-      { "idioma": "Inglês", "nivel": "Avançado" }
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
     ],
-    "arealnteresses": ["Big Data", "Machine Learning", "Cloud Computing"]
+    "areaInteresses": ["Educação", "IA ética"]
+  },
+  {
+    "id": 18,
+    "nome": "Gael Henrique da Mota",
+    "foto": "./images/foto18.jpg",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Synthesize innovative supply-chains",
+    "localizacao": "Farias Verde/RS",
+    "area": "Design",
+    "habilidadesTecnicas": ["JavaScript", "Node.js", "React", "TypeScript"],
+    "softSkills": ["Gestão de Tempo", "Comunicação", "Adaptabilidade"],
+    "experiencias": [
+      {
+        "empresa": "Castro Ribeiro S/A",
+        "cargo": "UX/UI Designer",
+        "inicio": "2017-05",
+        "fim": "Atual",
+        "descricao": "Tempore debitis veniam debitis.\nItaque hic consequuntur repellat distinctio neque quo. Nemo et illo saepe repudiandae non."
+      },
+      {
+        "empresa": "Sá",
+        "cargo": "Product Manager",
+        "inicio": "2018-02",
+        "fim": "Atual",
+        "descricao": "Ad voluptatum soluta velit voluptas. Illo in laborum minus ratione. Veniam est ducimus unde nihil sint."
+      },
+      {
+        "empresa": "Pereira",
+        "cargo": "Analista de QA",
+        "inicio": "2022-06",
+        "fim": "2022-10",
+        "descricao": "Nobis molestiae numquam commodi blanditiis. Neque quidem cupiditate voluptatem.\nModi tempora error. Quod ducimus consequuntur doloremque harum in odio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Mackenzie",
+        "ano": 2016
+      },
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Udemy",
+        "ano": 2011
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O direito de conseguir de maneira eficaz",
+        "link": "https://www.silva.br/",
+        "descricao": "Itaque explicabo exercitationem excepturi minus laudantium. Ratione illo modi explicabo. Quos reiciendis repudiandae nemo."
+      }
+    ],
+    "certificacoes": ["Spark"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "IA ética", "Open Source"]
+  },
+  {
+    "id": 19,
+    "nome": "Fernanda Macedo",
+    "foto": "./images/foto19.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Matrix bleeding-edge e-services",
+    "localizacao": "Vargas de Sousa/RN",
+    "area": "Dados",
+    "habilidadesTecnicas": ["MongoDB", "Terraform", "Python", "Azure"],
+    "softSkills": ["Comunicação", "Resiliência", "Gestão de Tempo"],
+    "experiencias": [
+      {
+        "empresa": "Novaes S.A.",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2021-10",
+        "fim": "Atual",
+        "descricao": "Eaque quas illum molestias ad impedit error delectus. Odit voluptatem accusamus accusantium."
+      },
+      {
+        "empresa": "Alves Pastor Ltda.",
+        "cargo": "Cientista de Dados",
+        "inicio": "2016-07",
+        "fim": "Atual",
+        "descricao": "Officia consequatur autem a repellendus. Nobis enim dolore illum optio facere. Sed totam excepturi beatae reiciendis. Debitis labore officiis a facilis laudantium consequatur cumque."
+      },
+      {
+        "empresa": "da Cunha",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2019-05",
+        "fim": "Atual",
+        "descricao": "Beatae sapiente officiis in ad voluptatibus. Doloribus quia et eos labore.\nReiciendis aut consequatur ex esse exercitationem. Dolorum odit aliquid perspiciatis. Blanditiis minima doloribus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "FGV",
+        "ano": 2013
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Udemy",
+        "ano": 2013
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O conforto de inovar mais rapidamente",
+        "link": "http://dias.com/",
+        "descricao": "Amet temporibus debitis ab blanditiis. Eligendi assumenda debitis quisquam consectetur omnis ipsa error. Accusantium molestiae officiis quam."
+      },
+      {
+        "titulo": "A certeza de ganhar mais rapidamente",
+        "link": "http://www.ramos.com/",
+        "descricao": "Sapiente praesentium harum pariatur aliquid assumenda unde architecto."
+      },
+      {
+        "titulo": "A simplicidade de realizar seus sonhos mais rapidamente",
+        "link": "http://cardoso.br/",
+        "descricao": "Alias dolorum porro. Cupiditate accusamus consequatur fuga magni deleniti."
+      }
+    ],
+    "certificacoes": [".NET"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Fintechs", "Educação"]
+  },
+  {
+    "id": 20,
+    "nome": "Julia Vieira",
+    "foto": "./images/foto20.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Innovate b2c networks",
+    "localizacao": "Casa Grande dos Dourados/PA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript", "Spring Boot"],
+    "softSkills": ["Trabalho em Equipe", "Resiliência", "Gestão de Tempo"],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque - ME",
+        "cargo": "UX/UI Designer",
+        "inicio": "2017-08",
+        "fim": "Atual",
+        "descricao": "Ipsa inventore cum fugiat quod. Quo quos saepe consectetur asperiores beatae laboriosam excepturi. Ea culpa placeat."
+      },
+      {
+        "empresa": "da Mota Pinto - ME",
+        "cargo": "Analista de DevOps",
+        "inicio": "2020-08",
+        "fim": "Atual",
+        "descricao": "Exercitationem deleniti similique ipsam tempore sunt maiores expedita. Nostrum repudiandae quas incidunt ullam quibusdam.\nDolorem vitae id. Quis similique eius dolorum. Dicta tempore voluptatum."
+      },
+      {
+        "empresa": "Guerra",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Ducimus ex aut mollitia sed sit.\nAdipisci ipsum est deleniti quaerat. Reprehenderit nobis adipisci veritatis non corrupti nisi autem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Unicamp",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Educação", "IA ética"]
+  },
+  {
+    "id": 21,
+    "nome": "Matheus Cardoso",
+    "foto": "./images/foto21.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Aggregate cross-platform e-commerce",
+    "localizacao": "Montenegro de Alves/RO",
+    "area": "QA",
+    "habilidadesTecnicas": [".NET", "Azure", "React", "AWS"],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Liderança",
+      "Comunicação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Leão Alves S.A.",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2016-12",
+        "fim": "Atual",
+        "descricao": "Nesciunt fugit ut velit nostrum. Dignissimos dignissimos esse nostrum. Expedita odio dolore nisi dolorum vel."
+      },
+      {
+        "empresa": "Aparecida",
+        "cargo": "Analista de QA",
+        "inicio": "2022-05",
+        "fim": "2022-06",
+        "descricao": "Delectus reprehenderit officia culpa ea totam. Quaerat enim inventore laudantium voluptatibus voluptate blanditiis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Coursera",
+        "ano": 2010
+      },
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "USP",
+        "ano": 2013
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A possibilidade de concretizar seus projetos em estado puro",
+        "link": "https://da.com/",
+        "descricao": "Corrupti enim neque quos sapiente at iusto doloremque. Ratione explicabo iste eligendi eius nam. Quibusdam autem quas."
+      }
+    ],
+    "certificacoes": ["React", "Power BI"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Open Source",
+      "Computação em Nuvem",
+      "Educação"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Camila Sampaio",
+    "foto": "./images/foto22.jpg",
+    "cargo": "Analista de DevOps",
+    "resumo": "Incubate rich roi",
+    "localizacao": "Farias de Goiás/ES",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "MongoDB",
+      "Spark",
+      "C#",
+      "AWS",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Pensamento Crítico",
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Costela",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2016-04",
+        "fim": "Atual",
+        "descricao": "A molestias in cupiditate molestias. Eveniet officiis tenetur blanditiis doloribus quia consectetur perspiciatis.\nQuibusdam culpa a. At alias ab fugit a incidunt."
+      },
+      {
+        "empresa": "Fonseca",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2022-05",
+        "fim": "Atual",
+        "descricao": "Perferendis eligendi earum officiis ab. Exercitationem ratione error eaque officiis cum consectetur. Inventore placeat magni soluta. Error praesentium architecto saepe commodi odit aliquid."
+      },
+      {
+        "empresa": "Cavalcanti",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2017-07",
+        "fim": "Atual",
+        "descricao": "Tenetur cumque perferendis excepturi quidem voluptatum quasi voluptatibus. Beatae aperiam molestiae quasi reprehenderit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Alura",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["MongoDB"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Open Source", "Fintechs"]
+  },
+  {
+    "id": 23,
+    "nome": "Olívia Correia",
+    "foto": "./images/foto23.jpg",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "E-enable customized eyeballs",
+    "localizacao": "Sá das Flores/GO",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Figma",
+      "TypeScript",
+      "Azure",
+      "Power BI",
+      "Airflow",
+      "React",
+      "JavaScript",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento Crítico",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "da Mota Aparecida S/A",
+        "cargo": "Product Manager",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Et reprehenderit quam modi reprehenderit nostrum quia. Quas optio itaque fugiat cumque illo iste. Officia assumenda facilis necessitatibus expedita quam aliquam."
+      },
+      {
+        "empresa": "Rezende",
+        "cargo": "Product Manager",
+        "inicio": "2018-10",
+        "fim": "Atual",
+        "descricao": "Repudiandae pariatur laborum eum inventore magnam. Blanditiis accusantium corporis id dolore qui totam. Rem optio earum laboriosam."
+      },
+      {
+        "empresa": "da Mata e Filhos",
+        "cargo": "Analista de DevOps",
+        "inicio": "2020-11",
+        "fim": "Atual",
+        "descricao": "Quibusdam beatae rerum impedit ex. Eius et asperiores asperiores.\nCorrupti dolorem earum. Atque magni assumenda expedita saepe.\nDucimus soluta unde dolor vero."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Unicamp",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A liberdade de mudar naturalmente",
+        "link": "https://www.nunes.net/",
+        "descricao": "Debitis accusantium harum veniam iure maxime incidunt. Nisi ea eos error in possimus accusantium."
+      },
+      {
+        "titulo": "O prazer de ganhar com força total",
+        "link": "http://www.montenegro.com/",
+        "descricao": "Suscipit repellat alias laboriosam nobis ipsum et. Omnis consequatur beatae assumenda totam quis. Nam tempora consectetur doloremque doloremque."
+      },
+      {
+        "titulo": "O direito de conseguir simplesmente",
+        "link": "https://www.da.com/",
+        "descricao": "Ipsa hic perspiciatis voluptatum reiciendis dolorem. Aperiam porro temporibus quibusdam iusto facilis."
+      }
+    ],
+    "certificacoes": ["React"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["IA ética", "Educação"]
+  },
+  {
+    "id": 24,
+    "nome": "Rebeca Peixoto",
+    "foto": "./images/foto24.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Transform end-to-end applications",
+    "localizacao": "Silveira/PA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "GCP",
+      ".NET",
+      "Kubernetes",
+      "Node.js",
+      "Docker",
+      "SQL",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Gestão de Tempo",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Garcia",
+        "cargo": "Analista de QA",
+        "inicio": "2024-05",
+        "fim": "2025-08",
+        "descricao": "Harum mollitia at occaecati consectetur facere. Aliquid accusantium doloribus eligendi ea rerum cupiditate placeat. Numquam dignissimos magnam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Coursera",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O conforto de mudar mais facilmente",
+        "link": "http://www.moreira.net/",
+        "descricao": "Maiores quibusdam nobis consequatur quo ipsum doloribus maxime. Sit sint eveniet rerum. Molestias deleniti dolor voluptate autem ad delectus."
+      },
+      {
+        "titulo": "A vantagem de inovar em estado puro",
+        "link": "https://porto.net/",
+        "descricao": "Quia minus tempore. Eligendi tempore culpa mollitia id laboriosam."
+      },
+      {
+        "titulo": "A simplicidade de atingir seus objetivos com toda a tranquilidade",
+        "link": "https://www.silva.com/",
+        "descricao": "Ad magnam natus excepturi. Accusantium magnam est exercitationem aperiam corrupti ab. Laborum inventore cum blanditiis temporibus facilis."
+      }
+    ],
+    "certificacoes": ["Azure", "C#"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "Sustentabilidade"]
+  },
+  {
+    "id": 25,
+    "nome": "Mariane Siqueira",
+    "foto": "./images/foto25.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Scale mission-critical networks",
+    "localizacao": "Pereira/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Kubernetes", "Spring Boot", ".NET", "Azure"],
+    "softSkills": [
+      "Gestão de Tempo",
+      "Comunicação",
+      "Pensamento Crítico",
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira - ME",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-06",
+        "fim": "2022-12",
+        "descricao": "Itaque vero facilis quos atque occaecati. Commodi autem quisquam. Officia iure officia dolor occaecati est."
+      },
+      {
+        "empresa": "Camargo e Filhos",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2016-12",
+        "fim": "2018-10",
+        "descricao": "Laboriosam enim magni dolore totam non vero. Animi minima vero. Omnis nam cupiditate optio.\nDelectus nulla maxime atque quae suscipit omnis odit. Qui harum assumenda quisquam quos voluptas."
+      },
+      {
+        "empresa": "da Conceição",
+        "cargo": "Analista de QA",
+        "inicio": "2016-03",
+        "fim": "Atual",
+        "descricao": "Doloribus rem perspiciatis dolorum. Nesciunt numquam mollitia velit esse.\nIpsa architecto distinctio amet repellendus nemo deleniti. Possimus aperiam modi nihil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FGV",
+        "ano": 2022
+      },
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Mackenzie",
+        "ano": 2010
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O direito de mudar em estado puro",
+        "link": "https://martins.com/",
+        "descricao": "Recusandae cupiditate reprehenderit eius odit. Error officia tenetur dicta dolorum sit. In quibusdam nostrum voluptatum eveniet."
+      },
+      {
+        "titulo": "O poder de realizar seus sonhos naturalmente",
+        "link": "https://aragao.br/",
+        "descricao": "Quas ex rerum quasi doloribus. Eveniet eveniet magnam libero vitae vel error. Nam aut tempora et quaerat neque consequuntur."
+      }
+    ],
+    "certificacoes": [".NET", "Terraform", "Airflow"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Saúde Digital",
+      "Fintechs",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Matheus Vieira",
+    "foto": "./images/foto26.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Facilitate value-added initiatives",
+    "localizacao": "Sales/GO",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "GCP",
+      "Airflow",
+      "Java",
+      "JavaScript",
+      "Terraform",
+      "SQL",
+      "MongoDB"
+    ],
+    "softSkills": ["Liderança", "Proatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Barros",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2021-03",
+        "fim": "2025-04",
+        "descricao": "Accusantium aperiam dignissimos ipsum minus culpa. Iure repellendus aperiam fuga odio sint.\nVoluptatibus quas libero animi. Dolore commodi voluptatem rerum praesentium. Quod minima quam eveniet."
+      },
+      {
+        "empresa": "da Luz Ltda.",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2016-01",
+        "fim": "Atual",
+        "descricao": "Natus accusantium eligendi asperiores. Modi totam minima similique vitae voluptates consequuntur.\nIpsum asperiores minima accusamus molestias earum impedit quasi. Minus quos sint culpa odit."
+      },
+      {
+        "empresa": "Guerra S/A",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2016-03",
+        "fim": "2017-08",
+        "descricao": "Odit unde veniam soluta voluptate. Ut sunt vero ex porro reiciendis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Unicamp",
+        "ano": 2019
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Coursera",
+        "ano": 2024
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Power BI", "Figma"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Educação", "IA ética"]
+  },
+  {
+    "id": 27,
+    "nome": "Juliana Carvalho",
+    "foto": "./images/foto27.jpg",
+    "cargo": "Analista de DevOps",
+    "resumo": "Deploy mission-critical portals",
+    "localizacao": "Brito de Oliveira/MS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GCP",
+      "SQL",
+      "JavaScript",
+      "Azure",
+      "Figma",
+      "Airflow",
+      ".NET"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Trabalho em Equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Peixoto Teixeira e Filhos",
+        "cargo": "Tech Lead",
+        "inicio": "2017-12",
+        "fim": "Atual",
+        "descricao": "Reiciendis expedita voluptatum ab tenetur delectus. Eligendi laborum neque in est. Quas iusto perspiciatis vero voluptatum."
+      },
+      {
+        "empresa": "Fonseca",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2024-02",
+        "fim": "Atual",
+        "descricao": "Numquam sint quam quis perferendis aliquid. Repellat possimus aut molestias accusamus.\nPorro non pariatur enim modi. Tenetur tempora reprehenderit occaecati veritatis error."
+      },
+      {
+        "empresa": "Viana",
+        "cargo": "Analista de DevOps",
+        "inicio": "2018-06",
+        "fim": "Atual",
+        "descricao": "Impedit eligendi provident rerum ex ex. Illo eum nobis deleniti aut neque vel totam.\nDistinctio doloribus in."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2013
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Unicamp",
+        "ano": 2010
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de mudar antes de tudo",
+        "link": "https://sampaio.com/",
+        "descricao": "Impedit enim ea facere temporibus recusandae."
+      },
+      {
+        "titulo": "O poder de atingir seus objetivos com força total",
+        "link": "https://rezende.br/",
+        "descricao": "Necessitatibus earum ab necessitatibus nam. Voluptatibus sequi repellat illum.\nNobis quisquam debitis."
+      },
+      {
+        "titulo": "O poder de concretizar seus projetos direto da fonte",
+        "link": "http://www.porto.br/",
+        "descricao": "Illo illo blanditiis laborum quidem ratione. Repellat pariatur a modi suscipit exercitationem cum eveniet. Similique id laudantium."
+      }
+    ],
+    "certificacoes": ["AWS"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Computação em Nuvem"]
+  },
+  {
+    "id": 28,
+    "nome": "Apollo Rodrigues",
+    "foto": "./images/foto28.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Exploit e-business communities",
+    "localizacao": "Mendes de Moraes/PA",
+    "area": "QA",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "SQL",
+      "JavaScript",
+      "Python",
+      "C#",
+      "Azure",
+      ".NET",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Gestão de Tempo",
+      "Adaptabilidade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Rodrigues Castro e Filhos",
+        "cargo": "Tech Lead",
+        "inicio": "2024-08",
+        "fim": "Atual",
+        "descricao": "Qui maiores odit. Aut odio autem reprehenderit ab sed."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FGV",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O poder de mudar simplesmente",
+        "link": "https://www.goncalves.com/",
+        "descricao": "Blanditiis minima sequi. Ea quaerat nemo corrupti sed dolores. Esse quos vel consectetur rerum."
+      }
+    ],
+    "certificacoes": [".NET"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Computação em Nuvem",
+      "Blockchain",
+      "Educação"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Eduarda Lima",
+    "foto": "./images/foto29.jpg",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Productize intuitive e-business",
+    "localizacao": "Macedo da Serra/AP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Power BI", "Node.js", "C#", "Java"],
+    "softSkills": [
+      "Adaptabilidade",
+      "Gestão de Tempo",
+      "Pensamento Crítico",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Vieira Lopes S/A",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2023-01",
+        "fim": "Atual",
+        "descricao": "Neque assumenda ad corporis ab praesentium. Nobis error minima inventore blanditiis consectetur."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Alura",
+        "ano": 2010
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A certeza de evoluir naturalmente",
+        "link": "https://www.leao.net/",
+        "descricao": "Et ex temporibus inventore."
+      }
+    ],
+    "certificacoes": ["C#", "Python", "SQL"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde Digital",
+      "Open Source",
+      "Computação em Nuvem",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Ana Júlia Gomes",
+    "foto": "./images/foto30.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Facilitate bleeding-edge e-commerce",
+    "localizacao": "Mendes/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "SQL",
+      "Terraform",
+      "MongoDB",
+      "Docker",
+      ".NET",
+      "Figma"
+    ],
+    "softSkills": ["Comunicação", "Proatividade", "Adaptabilidade"],
+    "experiencias": [
+      {
+        "empresa": "Oliveira Caldeira - ME",
+        "cargo": "UX/UI Designer",
+        "inicio": "2024-05",
+        "fim": "Atual",
+        "descricao": "Distinctio assumenda fugiat facere vel. Magni ipsa veritatis fuga."
+      },
+      {
+        "empresa": "Teixeira e Filhos",
+        "cargo": "Product Manager",
+        "inicio": "2019-12",
+        "fim": "Atual",
+        "descricao": "Laboriosam praesentium sint in consequuntur hic. Excepturi tempora nisi aspernatur corrupti magnam ipsam.\nVitae illo tempora enim."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2022
+      },
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Udemy",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A segurança de ganhar com confiança",
+        "link": "https://da.com/",
+        "descricao": "Eveniet vitae repellat velit. Nesciunt quo vero dolor harum.\nOdit a odio sint similique natus non. Quasi enim rerum mollitia corporis tenetur."
+      },
+      {
+        "titulo": "A simplicidade de ganhar mais rapidamente",
+        "link": "https://montenegro.com/",
+        "descricao": "Provident totam dolores."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Educação", "Open Source", "Computação em Nuvem"]
+  },
+  {
+    "id": 31,
+    "nome": "Marcos Vinicius Farias",
+    "foto": "./images/foto31.jpg",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Iterate end-to-end content",
+    "localizacao": "Duarte de Goiás/PA",
+    "area": "QA",
+    "habilidadesTecnicas": ["Python", "Terraform", "Power BI", ".NET", "Java"],
+    "softSkills": ["Liderança", "Trabalho em Equipe", "Pensamento Crítico"],
+    "experiencias": [
+      {
+        "empresa": "Fogaça",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-01",
+        "fim": "Atual",
+        "descricao": "Illo voluptatum possimus eaque qui vel. Quae doloribus sed pariatur facere.\nOdio velit consectetur. Nihil optio eligendi aspernatur ullam quasi."
+      },
+      {
+        "empresa": "da Mota da Costa e Filhos",
+        "cargo": "Analista de DevOps",
+        "inicio": "2023-12",
+        "fim": "2024-09",
+        "descricao": "Maiores quis architecto molestiae quas. Consequuntur voluptatem sequi ex hic deserunt sit. Minus temporibus occaecati voluptas facilis."
+      },
+      {
+        "empresa": "Garcia da Cunha Ltda.",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2018-08",
+        "fim": "Atual",
+        "descricao": "Pariatur a nostrum inventore.\nCorrupti totam tempora illum repellendus. Possimus exercitationem beatae veniam. Esse accusantium delectus hic quia qui vero."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FGV",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de mudar com confiança",
+        "link": "http://www.sales.com/",
+        "descricao": "Laudantium atque at reiciendis. Aut recusandae illum dolores amet officiis."
+      },
+      {
+        "titulo": "O poder de realizar seus sonhos direto da fonte",
+        "link": "https://www.carvalho.com/",
+        "descricao": "Sapiente iure ad iste quas labore. Sunt non modi natus doloremque. Amet minus soluta.\nSequi delectus deserunt reprehenderit quos possimus velit vero."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["IA ética", "Fintechs", "Open Source"]
+  },
+  {
+    "id": 32,
+    "nome": "Letícia da Rosa",
+    "foto": "./images/foto32.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Disintermediate real-time initiatives",
+    "localizacao": "da Cruz/RN",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Python",
+      "Terraform",
+      "Power BI",
+      "Java",
+      "Figma",
+      "Docker",
+      "Azure"
+    ],
+    "softSkills": ["Resiliência", "Trabalho em Equipe", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "Martins",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2024-08",
+        "fim": "Atual",
+        "descricao": "Aperiam repellendus earum quia. Velit sint enim fuga. Ipsam occaecati laudantium consectetur iste tempore."
+      },
+      {
+        "empresa": "Lima",
+        "cargo": "Analista de QA",
+        "inicio": "2017-09",
+        "fim": "Atual",
+        "descricao": "Facere voluptatum praesentium minima magnam laboriosam soluta. Quo perspiciatis molestias temporibus. Nihil voluptatem amet doloribus mollitia iusto. Hic labore pariatur cupiditate totam culpa."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Coursera",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["AWS", "Kubernetes", "React"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação",
+      "Saúde Digital",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Isaac Andrade",
+    "foto": "./images/foto33.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Engage frictionless info-mediaries",
+    "localizacao": "Borges do Galho/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Spark",
+      ".NET",
+      "Power BI",
+      "SQL",
+      "Python",
+      "Node.js",
+      "Airflow"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Trabalho em Equipe",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "da Conceição S/A",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Deserunt nihil ut delectus.\nRepellat impedit necessitatibus pariatur blanditiis aut. Voluptatibus possimus harum rerum. Voluptatum excepturi numquam dolores quibusdam dignissimos deleniti cum."
+      },
+      {
+        "empresa": "Azevedo Camargo - EI",
+        "cargo": "Product Manager",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Velit itaque nisi voluptates. Laudantium officia optio corporis sit harum quae. Nobis numquam tenetur molestias incidunt."
+      },
+      {
+        "empresa": "Moraes",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2019-04",
+        "fim": "Atual",
+        "descricao": "Quisquam porro blanditiis quos.\nQuam incidunt autem laborum. Cumque cum incidunt doloribus. Architecto optio mollitia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Alura",
+        "ano": 2017
+      },
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "PUC-SP",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de mudar naturalmente",
+        "link": "https://mendonca.br/",
+        "descricao": "Soluta temporibus quos earum. Deserunt facilis laudantium nesciunt necessitatibus blanditiis inventore. Iste dolorum maiores debitis est."
+      },
+      {
+        "titulo": "A simplicidade de avançar com confiança",
+        "link": "http://www.aparecida.br/",
+        "descricao": "Error temporibus animi at quae fuga. Porro repellat natus non maxime optio soluta. Corporis suscipit laudantium inventore odit."
+      },
+      {
+        "titulo": "O prazer de inovar mais facilmente",
+        "link": "http://www.pires.com/",
+        "descricao": "Beatae ipsum deserunt odit. Ut animi dicta consequatur dicta iure quidem commodi. Eos hic quae. Facilis eligendi animi quidem."
+      }
+    ],
+    "certificacoes": ["C#", "Python", "Docker"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Fintechs", "Open Source", "Blockchain"]
+  },
+  {
+    "id": 34,
+    "nome": "Bruna Cavalcanti",
+    "foto": "./images/foto34.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Brand dot-com deliverables",
+    "localizacao": "Sampaio de Aragão/MA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "TypeScript",
+      "Docker",
+      "Kubernetes",
+      "Azure"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em Equipe",
+      "Comunicação",
+      "Proatividade",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fernandes",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2021-10",
+        "fim": "2024-05",
+        "descricao": "Facilis itaque cupiditate maiores repellendus. Officia aliquid debitis earum ex nostrum ipsam sint.\nTotam veniam quasi ratione."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2019
+      },
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Mackenzie",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O poder de mudar direto da fonte",
+        "link": "https://da.com/",
+        "descricao": "Veniam quod beatae reiciendis alias eum.\nEos commodi eum maxime dolorem sit ullam."
+      },
+      {
+        "titulo": "O prazer de mudar direto da fonte",
+        "link": "https://martins.br/",
+        "descricao": "Aliquam cumque similique iste animi. Hic minima non.\nCulpa ipsam possimus eveniet. Nam sint non pariatur nemo maxime."
+      },
+      {
+        "titulo": "A vantagem de concretizar seus projetos de maneira eficaz",
+        "link": "https://cunha.br/",
+        "descricao": "Aspernatur dignissimos esse iusto temporibus eligendi doloremque optio. Cumque provident impedit ullam harum. Numquam cumque odit enim."
+      }
+    ],
+    "certificacoes": ["Python"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Saúde Digital", "Educação"]
+  },
+  {
+    "id": 35,
+    "nome": "Isaac Garcia",
+    "foto": "./images/foto35.jpg",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Benchmark bricks-and-clicks e-business",
+    "localizacao": "Machado de Teixeira/CE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Spring Boot",
+      "C#",
+      "Node.js",
+      "Spark",
+      "SQL",
+      "Docker",
+      "Java",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Proatividade",
+      "Gestão de Tempo",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Souza",
+        "cargo": "Tech Lead",
+        "inicio": "2019-09",
+        "fim": "Atual",
+        "descricao": "Repellat iure reprehenderit impedit in eos ipsum ipsa. Autem sequi quod vitae mollitia totam. Earum necessitatibus sequi perspiciatis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Coursera",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O direito de ganhar com força total",
+        "link": "http://nascimento.br/",
+        "descricao": "Eaque saepe esse libero quia error. Dolore alias atque debitis est."
+      },
+      {
+        "titulo": "A liberdade de inovar sem preocupação",
+        "link": "http://silva.com/",
+        "descricao": "Dignissimos placeat reiciendis in esse repellendus. Asperiores architecto aperiam reprehenderit aliquam repudiandae."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Computação em Nuvem", "Blockchain"]
+  },
+  {
+    "id": 36,
+    "nome": "Alana Brito",
+    "foto": "./images/foto36.jpg",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Morph open-source e-services",
+    "localizacao": "Silveira/AC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Spark",
+      "Python",
+      "Docker",
+      "AWS",
+      "Kubernetes",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Gestão de Tempo",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira S/A",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2016-12",
+        "fim": "2019-04",
+        "descricao": "Provident porro iusto fuga aperiam.\nDeserunt nulla repellendus recusandae."
+      },
+      {
+        "empresa": "Moraes",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2021-07",
+        "fim": "Atual",
+        "descricao": "Animi quo magni quod. In suscipit quibusdam quas quos debitis. Optio error illo ducimus delectus."
+      },
+      {
+        "empresa": "Ramos",
+        "cargo": "Cientista de Dados",
+        "inicio": "2017-08",
+        "fim": "Atual",
+        "descricao": "Facere qui quis quos. Rerum delectus culpa soluta blanditiis aliquam ad. Deserunt ex labore et cumque.\nFacilis commodi rem ex occaecati."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Mackenzie",
+        "ano": 2015
+      },
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FGV",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A vantagem de concretizar seus projetos antes de tudo",
+        "link": "http://ramos.com/",
+        "descricao": "Explicabo iusto esse error incidunt quasi.\nAliquid voluptas odit occaecati dolore ad. In quibusdam voluptatum occaecati dolore reiciendis rem."
+      },
+      {
+        "titulo": "A possibilidade de inovar com toda a tranquilidade",
+        "link": "http://www.cassiano.br/",
+        "descricao": "Accusamus reprehenderit incidunt ex deleniti architecto dolorum. Praesentium consectetur aut sit aut cum voluptatem ullam."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 37,
+    "nome": "Anthony Sousa",
+    "foto": "./images/foto37.jpg",
+    "cargo": "Analista de DevOps",
+    "resumo": "Benchmark vertical networks",
+    "localizacao": "Abreu da Mata/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Python", "Node.js", "AWS", "TypeScript", "GCP"],
+    "softSkills": ["Proatividade", "Resiliência", "Trabalho em Equipe"],
+    "experiencias": [
+      {
+        "empresa": "Novais Garcia S/A",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2018-05",
+        "fim": "Atual",
+        "descricao": "Culpa commodi autem fugiat nemo perspiciatis eos. Repudiandae quibusdam ab dolorem nisi ab atque. Aperiam nisi repellat quia cum repudiandae sint."
+      },
+      {
+        "empresa": "Gonçalves Garcia Ltda.",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2020-04",
+        "fim": "Atual",
+        "descricao": "Corrupti veritatis molestiae quam adipisci. Iusto dolores aliquam ducimus aperiam molestias voluptatem."
+      },
+      {
+        "empresa": "Camargo",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2019-07",
+        "fim": "Atual",
+        "descricao": "Corrupti incidunt voluptas laudantium. Rem deserunt quasi nobis iste occaecati repellendus. Nam exercitationem atque incidunt.\nIpsa deleniti a quasi. Sunt sit tempore amet debitis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Coursera",
+        "ano": 2021
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A segurança de avançar de maneira eficaz",
+        "link": "https://www.ramos.com/",
+        "descricao": "Beatae eveniet maiores eos minima quae expedita. Incidunt quam odit aspernatur corporis quisquam magnam. Ab nemo optio a."
+      },
+      {
+        "titulo": "O prazer de inovar mais rapidamente",
+        "link": "http://sousa.com/",
+        "descricao": "Corporis tenetur quos. Ea modi ab voluptatem deserunt."
+      }
+    ],
+    "certificacoes": ["MongoDB", "Spark", "TypeScript"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Blockchain", "Open Source"]
+  },
+  {
+    "id": 38,
+    "nome": "Sr. Marcos Vinicius Peixoto",
+    "foto": "./images/foto38.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Empower next-generation schemas",
+    "localizacao": "Pastor de Rocha/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "Azure",
+      "JavaScript",
+      "Python",
+      "Kubernetes",
+      "Terraform",
+      "Docker"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Ferreira Ltda.",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2019-06",
+        "fim": "Atual",
+        "descricao": "Repudiandae iste est. Similique nihil odio nisi.\nVel atque animi repellat quis et facere. Omnis nulla deserunt dolore accusamus vel."
+      },
+      {
+        "empresa": "Aragão",
+        "cargo": "UX/UI Designer",
+        "inicio": "2019-05",
+        "fim": "Atual",
+        "descricao": "Dignissimos itaque deleniti laboriosam omnis. Laboriosam totam assumenda in. Consectetur accusantium voluptatum perspiciatis culpa quae ullam nam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Unicamp",
+        "ano": 2010
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de avançar mais rapidamente",
+        "link": "https://barros.org/",
+        "descricao": "Perferendis minus sint nostrum a. Et dolor error rerum ipsum.\nEligendi et debitis tempora. Beatae rerum assumenda. Iusto dolor doloremque amet."
+      },
+      {
+        "titulo": "A certeza de mudar naturalmente",
+        "link": "https://abreu.com/",
+        "descricao": "Eligendi numquam neque corrupti reprehenderit consequatur. Quibusdam praesentium adipisci dolorem. Enim ex unde sint."
+      }
+    ],
+    "certificacoes": ["TypeScript", "SQL", "Terraform"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Saúde Digital", "Blockchain", "Open Source", "Fintechs"]
+  },
+  {
+    "id": 39,
+    "nome": "Diego Câmara",
+    "foto": "./images/foto39.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Embrace intuitive niches",
+    "localizacao": "Abreu da Praia/BA",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Airflow", "Kubernetes", "Azure", "Terraform"],
+    "softSkills": ["Liderança", "Trabalho em Equipe", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "Nascimento Ltda.",
+        "cargo": "Product Manager",
+        "inicio": "2024-09",
+        "fim": "Atual",
+        "descricao": "Numquam nobis impedit velit maiores eum repellendus voluptas. Ratione amet modi vel natus et eaque.\nConsectetur fuga soluta nam temporibus quia. Iste repellendus inventore repellat impedit."
+      },
+      {
+        "empresa": "Mendonça - ME",
+        "cargo": "Tech Lead",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Impedit cumque occaecati eveniet facere laborum. Corporis eos sunt placeat dicta beatae."
+      },
+      {
+        "empresa": "Ribeiro Castro S/A",
+        "cargo": "Cientista de Dados",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Culpa debitis consequatur facilis. Pariatur ratione voluptatibus esse accusantium.\nError voluptates asperiores alias consectetur porro. Repellendus repudiandae ex exercitationem nisi nostrum."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "Mackenzie",
+        "ano": 2010
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Coursera",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O direito de concretizar seus projetos antes de tudo",
+        "link": "https://www.goncalves.br/",
+        "descricao": "Sed quae exercitationem accusamus at. Illo tenetur magnam cupiditate. Porro rem aliquam dolor."
+      },
+      {
+        "titulo": "A vantagem de avançar direto da fonte",
+        "link": "https://www.pereira.br/",
+        "descricao": "Quaerat praesentium nulla fugit pariatur eveniet sed."
+      },
+      {
+        "titulo": "A simplicidade de evoluir simplesmente",
+        "link": "https://fernandes.br/",
+        "descricao": "Veniam fugit ratione repudiandae in sed ullam. Nisi quasi possimus eos. Autem error mollitia unde necessitatibus."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Open Source", "Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 40,
+    "nome": "Pietro Rezende",
+    "foto": "./images/foto40.jpg",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Engineer 24/7 experiences",
+    "localizacao": "Campos/PA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "React",
+      "Azure",
+      "JavaScript",
+      "Python",
+      ".NET",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico",
+      "Adaptabilidade",
+      "Gestão de Tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Gomes Câmara e Filhos",
+        "cargo": "Analista de DevOps",
+        "inicio": "2018-06",
+        "fim": "Atual",
+        "descricao": "Omnis explicabo beatae sint autem iusto. Cumque asperiores dolore mollitia earum debitis facere. Nemo natus iste facilis sed explicabo optio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Coursera",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O direito de realizar seus sonhos com confiança",
+        "link": "https://vasconcelos.com/",
+        "descricao": "Amet soluta dicta sit ullam officiis. Ipsam fugit consequuntur impedit aliquid.\nHarum error assumenda mollitia."
+      },
+      {
+        "titulo": "O conforto de atingir seus objetivos com confiança",
+        "link": "https://www.vargas.com/",
+        "descricao": "Vel quod officia amet tempore laborum earum. Dolor impedit deserunt quasi explicabo velit odio."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade",
+      "Saúde Digital",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Sr. Enzo Caldeira",
+    "foto": "./images/foto41.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Cultivate vertical portals",
+    "localizacao": "Lima/SE",
+    "area": "Design",
+    "habilidadesTecnicas": ["AWS", "C#", "Spark", "React", ".NET", "Python"],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Resiliência",
+      "Liderança",
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "da Cruz",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2022-03",
+        "fim": "2022-03",
+        "descricao": "Possimus amet quam ullam repudiandae. Ratione quis dolorum eligendi eum incidunt placeat. Repellendus maxime maiores suscipit est architecto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Udemy",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A liberdade de mudar com toda a tranquilidade",
+        "link": "https://caldeira.com/",
+        "descricao": "Exercitationem tempora odit labore et doloremque distinctio. Soluta minus delectus veritatis."
+      },
+      {
+        "titulo": "A segurança de concretizar seus projetos antes de tudo",
+        "link": "https://rodrigues.com/",
+        "descricao": "Sit ratione illo cumque voluptatum. Mollitia ipsam qui voluptatum aspernatur itaque corrupti sapiente."
+      },
+      {
+        "titulo": "A vantagem de conseguir com força total",
+        "link": "http://www.das.br/",
+        "descricao": "Dicta minima nobis tenetur reprehenderit voluptatibus. A iusto suscipit.\nVeniam ex iusto voluptatum. Eos totam perferendis eligendi."
+      }
+    ],
+    "certificacoes": ["TypeScript", "Power BI"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Fintechs", "Educação"]
+  },
+  {
+    "id": 42,
+    "nome": "Maitê Cavalcante",
+    "foto": "./images/foto42.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Brand 24/365 info-mediaries",
+    "localizacao": "Ferreira/AM",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Terraform",
+      ".NET",
+      "GCP",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento Crítico",
+      "Gestão de Tempo",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Rodrigues Rezende S.A.",
+        "cargo": "Cientista de Dados",
+        "inicio": "2017-04",
+        "fim": "Atual",
+        "descricao": "Voluptas maiores doloremque optio sapiente consectetur fugiat. Quidem qui consectetur ex corrupti dolor alias aut. Iste sunt odio ab repellat voluptatum enim."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A segurança de atingir seus objetivos direto da fonte",
+        "link": "https://cirino.net/",
+        "descricao": "Quo perspiciatis odio fuga. Voluptatibus dolor cum iste."
+      }
+    ],
+    "certificacoes": ["Node.js", "AWS"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Computação em Nuvem",
+      "Blockchain",
+      "Open Source",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Breno Silveira",
+    "foto": "./images/foto43.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Seize wireless mindshare",
+    "localizacao": "Peixoto/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "Kubernetes",
+      "Spring Boot",
+      "Terraform",
+      "Python",
+      "AWS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade",
+      "Adaptabilidade",
+      "Trabalho em Equipe",
+      "Gestão de Tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2024-09",
+        "fim": "Atual",
+        "descricao": "Omnis ipsa earum odit occaecati ea. Eos repudiandae delectus quidem.\nLaudantium earum voluptate fugiat. Repellendus neque quod. Quaerat illo est ipsa labore dolor modi."
+      },
+      {
+        "empresa": "Moura Novais S/A",
+        "cargo": "Analista de DevOps",
+        "inicio": "2019-10",
+        "fim": "Atual",
+        "descricao": "Suscipit quaerat laudantium animi ratione asperiores architecto fugiat. Voluptatum neque asperiores consequuntur quo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Unicamp",
+        "ano": 2013
+      },
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Mackenzie",
+        "ano": 2012
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O poder de concretizar seus projetos com confiança",
+        "link": "http://www.mendonca.org/",
+        "descricao": "Iste ad ducimus eveniet doloremque. Molestias ratione atque vitae vero perferendis repudiandae. Ipsum debitis incidunt et maxime."
+      },
+      {
+        "titulo": "A certeza de evoluir mais rapidamente",
+        "link": "http://www.pires.net/",
+        "descricao": "Occaecati sed earum dolores quo. Aliquam itaque magnam."
+      },
+      {
+        "titulo": "A arte de evoluir naturalmente",
+        "link": "http://rodrigues.com/",
+        "descricao": "Impedit sit odio. Ullam accusantium minima reiciendis nulla.\nPlaceat in neque. Ipsa nemo vitae itaque corporis iure delectus."
+      }
+    ],
+    "certificacoes": ["C#", "Docker"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["Saúde Digital", "Blockchain"]
+  },
+  {
+    "id": 44,
+    "nome": "Dr. Enzo Gabriel Cunha",
+    "foto": "./images/foto44.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Orchestrate real-time schemas",
+    "localizacao": "Casa Grande/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "GCP",
+      ".NET",
+      "Python",
+      "React",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Adaptabilidade",
+      "Resiliência",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Mendes",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Itaque dolore atque fugiat consectetur rem. A qui sequi corporis possimus maiores dolore ullam.\nAut harum officiis labore.\nSunt laudantium ab. Accusamus natus voluptatum culpa odit aliquid."
+      },
+      {
+        "empresa": "Câmara",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Adipisci veniam esse asperiores.\nRepudiandae a quibusdam consequatur amet eos iste quisquam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2014
+      },
+      {
+        "curso": "Design Digital",
+        "instituicao": "Coursera",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A arte de evoluir com força total",
+        "link": "http://www.silva.com/",
+        "descricao": "Enim doloremque impedit voluptas. Praesentium nisi quod quidem consectetur soluta repudiandae. Deserunt enim maiores maxime quis occaecati fugiat."
+      },
+      {
+        "titulo": "O poder de avançar simplesmente",
+        "link": "http://da.br/",
+        "descricao": "Ipsam dolorem aspernatur nihil id. Reiciendis laboriosam veritatis dicta corporis."
+      }
+    ],
+    "certificacoes": ["Kubernetes", "SQL", "React"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Blockchain",
+      "IA ética",
+      "Computação em Nuvem"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Luiz Gustavo Rios",
+    "foto": "./images/foto45.jpg",
+    "cargo": "Analista de DevOps",
+    "resumo": "Mesh strategic methodologies",
+    "localizacao": "Duarte de Farias/CE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Docker",
+      "Spring Boot",
+      "Spark",
+      "GCP",
+      ".NET"
+    ],
+    "softSkills": ["Proatividade", "Adaptabilidade", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Cassiano",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Explicabo ex dolorem dolorem voluptatem dicta veritatis. Corporis sint eaque iste sed deserunt incidunt."
+      },
+      {
+        "empresa": "Santos",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2022-04",
+        "fim": "2024-01",
+        "descricao": "Nisi alias error commodi. Totam sunt id.\nVoluptates aliquid optio molestiae ipsa repellendus. Animi fuga nisi quaerat. Optio accusantium laborum necessitatibus excepturi laboriosam eius."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Mackenzie",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A possibilidade de inovar com confiança",
+        "link": "https://www.da.br/",
+        "descricao": "Eius beatae iure id dolore dicta. Neque tempora laboriosam temporibus assumenda odio. In ipsam autem id aperiam at."
+      },
+      {
+        "titulo": "O conforto de realizar seus sonhos mais facilmente",
+        "link": "http://viana.br/",
+        "descricao": "Sint dolorem corrupti asperiores consectetur tempore. Veritatis quas consequuntur quisquam facilis veniam. Perspiciatis eius ipsam voluptatem."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Fintechs", "IA ética"]
+  },
+  {
+    "id": 46,
+    "nome": "Maria Júlia Souza",
+    "foto": "./images/foto46.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Whiteboard integrated deliverables",
+    "localizacao": "Oliveira Verde/GO",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Airflow",
+      ".NET",
+      "C#",
+      "MongoDB",
+      "Azure",
+      "Figma",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento Crítico",
+      "Adaptabilidade",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Cassiano",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2017-08",
+        "fim": "Atual",
+        "descricao": "Doloremque debitis eius eius. Dignissimos vero praesentium fugiat optio.\nOccaecati hic quaerat iste odit vitae eius. Fugit error excepturi porro vero eius fugit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Udemy",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A simplicidade de inovar com confiança",
+        "link": "http://www.rezende.br/",
+        "descricao": "Libero doloribus provident error repudiandae atque explicabo. Blanditiis ut ipsum dolorum. Labore nisi id voluptatibus occaecati."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Fintechs", "Educação"]
+  },
+  {
+    "id": 47,
+    "nome": "Srta. Giovanna Machado",
+    "foto": "./images/foto47.jpg",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Maximize cross-media action-items",
+    "localizacao": "Moura/RN",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "SQL",
+      "Java",
+      "GCP",
+      ".NET",
+      "Azure",
+      "React",
+      "Python"
+    ],
+    "softSkills": ["Comunicação", "Proatividade", "Adaptabilidade"],
+    "experiencias": [
+      {
+        "empresa": "Dias - EI",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2023-10",
+        "fim": "Atual",
+        "descricao": "Dolore saepe praesentium officia.\nAccusantium officiis beatae assumenda voluptates impedit dolores quod."
+      },
+      {
+        "empresa": "Costela",
+        "cargo": "Cientista de Dados",
+        "inicio": "2024-01",
+        "fim": "Atual",
+        "descricao": "Alias perferendis rem molestiae excepturi possimus dolorem. Modi vitae tempora laudantium perspiciatis aliquid recusandae. Saepe et ullam dolorem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Unicamp",
+        "ano": 2014
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Mackenzie",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O conforto de mudar com confiança",
+        "link": "http://www.da.org/",
+        "descricao": "Quibusdam suscipit amet atque. Eveniet officiis vero ab. Non veritatis nemo nisi quod recusandae quos sequi."
+      }
+    ],
+    "certificacoes": ["Node.js", "TypeScript", "Spring Boot"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética",
+      "Fintechs",
+      "Computação em Nuvem"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Srta. Aylla da Conceição",
+    "foto": "./images/foto48.jpg",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Drive distributed initiatives",
+    "localizacao": "Castro/RO",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Airflow",
+      "JavaScript",
+      "Java",
+      ".NET",
+      "Azure",
+      "GCP",
+      "Figma"
+    ],
+    "softSkills": ["Gestão de Tempo", "Pensamento Crítico", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Abreu",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Consequuntur sed quaerat soluta.\nSimilique molestias ex. Earum libero error. Maiores dolore eius eos iusto iste autem.\nMaxime et libero dolorem."
+      },
+      {
+        "empresa": "da Luz",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2020-11",
+        "fim": "Atual",
+        "descricao": "Odio sapiente omnis repellat exercitationem qui alias. Est id doloremque reprehenderit laboriosam voluptate fuga eius."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "Unicamp",
+        "ano": 2021
+      },
+      {
+        "curso": "Design Digital",
+        "instituicao": "Mackenzie",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A simplicidade de conseguir antes de tudo",
+        "link": "https://www.cardoso.br/",
+        "descricao": "Numquam at alias doloremque fuga corporis quaerat esse. Consequatur accusantium ducimus libero."
+      },
+      {
+        "titulo": "A simplicidade de realizar seus sonhos direto da fonte",
+        "link": "http://www.oliveira.com/",
+        "descricao": "Qui fugiat hic perferendis. Ex iste id vero laboriosam illo.\nDolor vero eveniet deleniti. At sed quasi."
+      }
+    ],
+    "certificacoes": ["Azure"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Educação", "Open Source"]
+  },
+  {
+    "id": 49,
+    "nome": "Antônio Nascimento",
+    "foto": "./images/foto49.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Re-intermediate out-of-the-box convergence",
+    "localizacao": "Câmara/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": ["TypeScript", "React", "C#", "MongoDB", "Spark"],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Liderança",
+      "Adaptabilidade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Freitas Machado Ltda.",
+        "cargo": "Analista de QA",
+        "inicio": "2024-02",
+        "fim": "Atual",
+        "descricao": "Tempore totam dolorem quasi totam recusandae. Non id libero velit. Esse sequi dignissimos explicabo aperiam laborum impedit. Asperiores nostrum ea quis commodi quibusdam modi enim."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Udemy",
+        "ano": 2012
+      },
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Alura",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A liberdade de evoluir em estado puro",
+        "link": "http://www.alves.org/",
+        "descricao": "Cupiditate eos ratione adipisci quod numquam fugiat. Nemo maxime libero possimus totam natus. Sed commodi in."
+      },
+      {
+        "titulo": "A segurança de atingir seus objetivos direto da fonte",
+        "link": "https://www.fogaca.br/",
+        "descricao": "Explicabo nesciunt libero itaque. Architecto assumenda perspiciatis tempore consequuntur."
+      },
+      {
+        "titulo": "A possibilidade de evoluir antes de tudo",
+        "link": "http://www.da.br/",
+        "descricao": "Corporis repudiandae quam optio expedita iure. Doloribus esse accusantium magni quas nostrum."
+      }
+    ],
+    "certificacoes": ["Figma", "Airflow", "C#"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Sustentabilidade",
+      "Educação",
+      "Saúde Digital"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Larissa Freitas",
+    "foto": "./images/foto50.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Integrate bleeding-edge eyeballs",
+    "localizacao": "Borges/PA",
+    "area": "Design",
+    "habilidadesTecnicas": ["Node.js", "Java", "Figma", "Docker"],
+    "softSkills": [
+      "Proatividade",
+      "Gestão de Tempo",
+      "Comunicação",
+      "Pensamento Crítico",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Cirino - EI",
+        "cargo": "UX/UI Designer",
+        "inicio": "2024-04",
+        "fim": "2025-09",
+        "descricao": "Voluptatem ducimus quos suscipit. Impedit a enim iure natus quaerat dolore. Dolores suscipit minus eos aspernatur quidem.\nCumque impedit dolor debitis velit aperiam ut. Nesciunt iure dolores odit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2010
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Figma", "Azure"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Computação em Nuvem", "Saúde Digital", "Blockchain"]
+  },
+  {
+    "id": 51,
+    "nome": "Bruna Monteiro",
+    "foto": "./images/foto51.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Synergize viral paradigms",
+    "localizacao": "Mendonça do Campo/AC",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "SQL",
+      "GCP",
+      "Node.js",
+      "Airflow",
+      "Spring Boot"
+    ],
+    "softSkills": ["Liderança", "Pensamento Crítico", "Gestão de Tempo"],
+    "experiencias": [
+      {
+        "empresa": "Vasconcelos",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2020-03",
+        "fim": "2020-11",
+        "descricao": "Recusandae ipsum qui expedita. Ipsa nemo sunt magni vero nemo.\nEnim dolorum iusto optio aspernatur. Distinctio consequuntur vitae velit doloribus dolorem impedit accusantium."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FGV",
+        "ano": 2012
+      },
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2012
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O conforto de realizar seus sonhos com força total",
+        "link": "https://da.com/",
+        "descricao": "Quae odio rerum repudiandae temporibus laborum. Voluptatibus architecto maiores ipsam quam ullam. Ducimus temporibus explicabo quaerat."
+      },
+      {
+        "titulo": "A arte de ganhar em estado puro",
+        "link": "https://cunha.br/",
+        "descricao": "Dignissimos cum ab facilis. Consequatur enim corrupti hic perferendis consectetur doloremque perspiciatis. Voluptate eveniet beatae similique."
+      },
+      {
+        "titulo": "O conforto de inovar antes de tudo",
+        "link": "https://correia.com/",
+        "descricao": "Laborum fugit quam suscipit.\nFugit ipsum optio natus quisquam."
+      }
+    ],
+    "certificacoes": ["Spring Boot", "AWS", "Power BI"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Saúde Digital"]
+  },
+  {
+    "id": 52,
+    "nome": "Julia da Rosa",
+    "foto": "./images/foto52.jpg",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Generate enterprise communities",
+    "localizacao": "Pastor de Minas/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Kubernetes",
+      "Power BI",
+      "Terraform",
+      "AWS",
+      "Java",
+      "Figma"
+    ],
+    "softSkills": ["Adaptabilidade", "Proatividade", "Trabalho em Equipe"],
+    "experiencias": [
+      {
+        "empresa": "Aragão S/A",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2021-06",
+        "fim": "2022-04",
+        "descricao": "Esse nihil natus dignissimos neque nam.\nNam ullam perferendis. Praesentium excepturi commodi sunt. Sint corporis occaecati ipsa optio qui assumenda."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Unicamp",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de atingir seus objetivos com força total",
+        "link": "http://novais.br/",
+        "descricao": "Repellat odio ex magni ut deleniti quasi voluptates."
+      },
+      {
+        "titulo": "A segurança de conseguir mais rapidamente",
+        "link": "https://goncalves.com/",
+        "descricao": "Ea omnis harum dolorum atque. Corporis voluptatibus praesentium aspernatur et. Doloremque quam exercitationem delectus repellat."
+      },
+      {
+        "titulo": "A simplicidade de ganhar de maneira eficaz",
+        "link": "https://www.garcia.com/",
+        "descricao": "Recusandae voluptates id. Eius voluptatibus quibusdam repellat incidunt. Harum corrupti nemo nisi fuga corrupti aperiam."
+      }
+    ],
+    "certificacoes": [".NET"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": ["IA ética", "Educação", "Computação em Nuvem"]
+  },
+  {
+    "id": 53,
+    "nome": "Ágatha Melo",
+    "foto": "./images/foto53.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Brand strategic methodologies",
+    "localizacao": "da Cruz de da Costa/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Java",
+      "Spark",
+      "TypeScript",
+      "MongoDB",
+      "Spring Boot",
+      "Python",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Trabalho em Equipe",
+      "Adaptabilidade",
+      "Pensamento Crítico",
+      "Gestão de Tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Andrade Camargo e Filhos",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-07",
+        "fim": "2021-05",
+        "descricao": "Eligendi quisquam minus sed. Recusandae eveniet quidem assumenda ex. Illo provident voluptatum ex."
+      },
+      {
+        "empresa": "Melo",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Exercitationem commodi ad corporis et perspiciatis pariatur quidem. Doloremque ea dolorum laboriosam hic aspernatur. Magnam ut incidunt labore eveniet."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Alura",
+        "ano": 2024
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Coursera",
+        "ano": 2024
+      }
+    ],
+    "projetos": [],
+    "certificacoes": ["Terraform", "MongoDB"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Computação em Nuvem",
+      "Blockchain",
+      "Open Source",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Maria Flor Castro",
+    "foto": "./images/foto54.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Morph plug-and-play networks",
+    "localizacao": "da Paz da Prata/RR",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Figma", "Airflow", "Docker", "TypeScript"],
+    "softSkills": [
+      "Resiliência",
+      "Liderança",
+      "Pensamento Crítico",
+      "Proatividade",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Sampaio S/A",
+        "cargo": "Analista de DevOps",
+        "inicio": "2015-12",
+        "fim": "Atual",
+        "descricao": "Repellat veritatis tempore quibusdam quidem. Tenetur fuga alias. Dignissimos quam temporibus sequi eos."
+      },
+      {
+        "empresa": "Gomes Moura - ME",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2019-02",
+        "fim": "Atual",
+        "descricao": "Ipsa quod doloremque ipsum culpa tempora dolorem alias. Minima maiores sint expedita perferendis.\nAlias quidem error cum hic fugit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Unicamp",
+        "ano": 2011
+      },
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Mackenzie",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de atingir seus objetivos naturalmente",
+        "link": "https://nascimento.org/",
+        "descricao": "Accusamus omnis autem id. Illum maxime iure dolorum neque ex omnis. Quos tempore nesciunt corporis quaerat."
+      }
+    ],
+    "certificacoes": ["TypeScript"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Blockchain",
+      "Open Source",
+      "Computação em Nuvem"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Mariane Aparecida",
+    "foto": "./images/foto55.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Streamline viral eyeballs",
+    "localizacao": "Pereira/AC",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Node.js", "React", "Terraform", "SQL", "Spark"],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Gestão de Tempo",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pinto",
+        "cargo": "Analista de QA",
+        "inicio": "2016-09",
+        "fim": "2017-08",
+        "descricao": "Ullam architecto in doloribus. Mollitia totam reprehenderit rem nulla. Maiores aliquam possimus."
+      },
+      {
+        "empresa": "Silva Macedo - EI",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2022-04",
+        "fim": "Atual",
+        "descricao": "Quas deleniti officiis itaque repellendus id. Quis veniam omnis aut vel.\nSapiente voluptas rerum nisi ducimus neque.\nRepudiandae amet nulla quidem possimus sapiente.\nSunt ducimus ex animi numquam."
+      },
+      {
+        "empresa": "da Conceição",
+        "cargo": "Product Manager",
+        "inicio": "2022-04",
+        "fim": "2023-03",
+        "descricao": "Expedita commodi velit veniam recusandae harum similique. Voluptatum ab ipsum magni cumque."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Unicamp",
+        "ano": 2019
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Udemy",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O poder de ganhar com confiança",
+        "link": "http://www.freitas.br/",
+        "descricao": "Similique atque atque illo ipsum voluptatum ullam et. Nesciunt unde distinctio enim necessitatibus. Exercitationem enim sint dicta."
+      },
+      {
+        "titulo": "A liberdade de atingir seus objetivos com toda a tranquilidade",
+        "link": "https://da.net/",
+        "descricao": "Vero doloremque itaque earum provident.\nCorporis quam amet sed explicabo. Iusto non deserunt illum."
+      },
+      {
+        "titulo": "O direito de atingir seus objetivos sem preocupação",
+        "link": "http://pastor.net/",
+        "descricao": "Labore nam totam magnam alias hic. Commodi quis quas."
+      }
+    ],
+    "certificacoes": ["Python", "Airflow", "Terraform"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Saúde Digital"]
+  },
+  {
+    "id": 56,
+    "nome": "Ravi Lucca Sales",
+    "foto": "./images/foto56.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Empower wireless convergence",
+    "localizacao": "Sales/TO",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "GCP",
+      "SQL",
+      "Figma",
+      "Kubernetes",
+      "Spark",
+      "Python",
+      "React"
+    ],
+    "softSkills": ["Resiliência", "Trabalho em Equipe", "Adaptabilidade"],
+    "experiencias": [
+      {
+        "empresa": "da Mata",
+        "cargo": "UX/UI Designer",
+        "inicio": "2022-03",
+        "fim": "2022-06",
+        "descricao": "Nihil fugit excepturi eligendi commodi ad nostrum vero.\nDebitis officia quibusdam eum molestiae tempora. Dolores facilis magnam voluptates. Amet laborum adipisci adipisci."
+      },
+      {
+        "empresa": "Lopes",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2019-08",
+        "fim": "2024-05",
+        "descricao": "Odit at suscipit reiciendis. Quasi facere doloremque labore ullam pariatur et illum. Dolore fuga ea quibusdam at ipsum.\nVeniam non numquam sint."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "Mackenzie",
+        "ano": 2024
+      },
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A vantagem de evoluir simplesmente",
+        "link": "http://da.com/",
+        "descricao": "Praesentium ipsam veniam voluptates deserunt. Quos earum ullam natus incidunt laborum ratione. Earum ducimus omnis cupiditate voluptatum."
+      },
+      {
+        "titulo": "A segurança de ganhar em estado puro",
+        "link": "http://da.br/",
+        "descricao": "Dolorum consequatur molestias iure ipsa ipsum molestiae. Sapiente quod ut. A architecto modi consequuntur."
+      },
+      {
+        "titulo": "A simplicidade de evoluir com força total",
+        "link": "https://pires.com/",
+        "descricao": "Earum similique tempora praesentium asperiores est nisi commodi. Cum tempore debitis. Rerum cumque odit ullam ipsum consequatur commodi corporis."
+      }
+    ],
+    "certificacoes": [".NET", "TypeScript"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Saúde Digital",
+      "Blockchain",
+      "Fintechs"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Ester Garcia",
+    "foto": "./images/foto57.jpg",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Syndicate one-to-one models",
+    "localizacao": "Jesus/TO",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "GCP", "Spark", "Docker", "Node.js"],
+    "softSkills": [
+      "Gestão de Tempo",
+      "Proatividade",
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Rocha",
+        "cargo": "Tech Lead",
+        "inicio": "2016-08",
+        "fim": "Atual",
+        "descricao": "Aspernatur perspiciatis sint porro accusantium dignissimos id. Provident voluptatem quia quos.\nMagni pariatur repudiandae officiis incidunt amet animi sapiente. Ipsum expedita dolorem molestias."
+      },
+      {
+        "empresa": "Moraes",
+        "cargo": "Tech Lead",
+        "inicio": "2018-04",
+        "fim": "Atual",
+        "descricao": "Nihil dicta quae fuga optio libero. Maiores qui praesentium iste."
+      },
+      {
+        "empresa": "Aragão S.A.",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2020-01",
+        "fim": "2021-09",
+        "descricao": "Ullam nesciunt deserunt non at laudantium amet natus. Temporibus deleniti nemo voluptatem recusandae esse. Voluptatem atque sequi earum error commodi."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "FGV",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "O prazer de evoluir mais rapidamente",
+        "link": "https://www.aragao.com/",
+        "descricao": "Consequatur totam totam voluptas quae inventore vel. Suscipit accusantium occaecati modi nobis facilis.\nRepellendus inventore magnam eaque."
+      },
+      {
+        "titulo": "O conforto de ganhar com confiança",
+        "link": "http://www.teixeira.org/",
+        "descricao": "Amet odio nesciunt omnis culpa nam distinctio. Fugit quo temporibus.\nNon ab dolore animi. Adipisci commodi sint ullam perferendis labore."
+      }
+    ],
+    "certificacoes": ["GCP"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Open Source", "Sustentabilidade", "IA ética"]
+  },
+  {
+    "id": 58,
+    "nome": "Sra. Mirella Mendes",
+    "foto": "./images/foto58.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Architect e-business schemas",
+    "localizacao": "Rodrigues/RO",
+    "area": "QA",
+    "habilidadesTecnicas": [
+      "Airflow",
+      "Java",
+      "Azure",
+      "Python",
+      "Kubernetes",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Comunicação",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pacheco",
+        "cargo": "Analista de QA",
+        "inicio": "2015-12",
+        "fim": "2025-09",
+        "descricao": "Ad dignissimos pariatur suscipit voluptates quisquam. Distinctio facere numquam iste. Esse ex soluta eaque architecto.\nMinus soluta possimus quos accusamus esse nam. Eum illo tempore neque error."
+      },
+      {
+        "empresa": "Abreu e Filhos",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2020-06",
+        "fim": "2022-12",
+        "descricao": "Perferendis ea consequatur labore doloremque iste nesciunt. Esse repudiandae sunt asperiores iure atque consectetur iure.\nDignissimos odit itaque molestiae repellendus. Sapiente fuga mollitia fugiat."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "FIAP",
+        "ano": 2014
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A vantagem de concretizar seus projetos mais rapidamente",
+        "link": "https://abreu.net/",
+        "descricao": "Temporibus illo dolores eum adipisci. Odit laborum iure occaecati sed ipsa ipsum.\nAccusamus accusantium tenetur. Ex repellendus velit in soluta."
+      },
+      {
+        "titulo": "O direito de realizar seus sonhos mais facilmente",
+        "link": "http://guerra.br/",
+        "descricao": "Atque aliquam voluptatum earum fugiat voluptates architecto. Dignissimos placeat mollitia adipisci. Perspiciatis aperiam necessitatibus laborum."
+      },
+      {
+        "titulo": "A possibilidade de concretizar seus projetos com confiança",
+        "link": "http://www.sampaio.com/",
+        "descricao": "Laboriosam consequatur culpa explicabo eos sint. Quod iusto iure repudiandae."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Educação", "Fintechs", "Sustentabilidade", "Blockchain"]
+  },
+  {
+    "id": 59,
+    "nome": "Benjamin Costela",
+    "foto": "./images/foto59.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Streamline integrated relationships",
+    "localizacao": "Freitas do Amparo/MS",
+    "area": "QA",
+    "habilidadesTecnicas": [
+      "Figma",
+      "AWS",
+      "Airflow",
+      "Docker",
+      "Kubernetes",
+      "Azure",
+      "Java"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Gestão de Tempo",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "da Cunha Castro - EI",
+        "cargo": "Desenvolvedor Full-Stack",
+        "inicio": "2023-05",
+        "fim": "Atual",
+        "descricao": "Ipsum consequuntur nihil cum iusto. Exercitationem ad quibusdam saepe atque est.\nAt cumque necessitatibus recusandae."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "Udemy",
+        "ano": 2010
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FGV",
+        "ano": 2022
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": ["Open Source", "Sustentabilidade"]
+  },
+  {
+    "id": 60,
+    "nome": "Vicente da Paz",
+    "foto": "./images/foto60.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Aggregate clicks-and-mortar infrastructures",
+    "localizacao": "Barros/TO",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Docker", "TypeScript", "C#", "Java", "Spark"],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Trabalho em Equipe",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo S/A",
+        "cargo": "Desenvolvedor Front-End",
+        "inicio": "2021-06",
+        "fim": "Atual",
+        "descricao": "Reprehenderit minus ullam ex necessitatibus vero qui. Molestias ea nesciunt quod facere. Autem mollitia aut enim reprehenderit libero."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Dados",
+        "instituicao": "Mackenzie",
+        "ano": 2011
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "A certeza de avançar com força total",
+        "link": "https://cunha.net/",
+        "descricao": "Cupiditate dolores quibusdam consectetur deserunt praesentium laudantium. Doloremque sed asperiores reprehenderit pariatur illo ex."
+      }
+    ],
+    "certificacoes": ["GCP", "Airflow", "Java"],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": ["Fintechs", "Educação", "Open Source"]
   }
 ]
