@@ -3,7 +3,7 @@ import { Sun, Moon } from "lucide-react";
 
 export default function Header({ darkMode, toggleDarkMode }) {
   return (
-    <div className={darkMode && "dark"}>
+    <div className={darkMode ? "dark" : ""}>
       <header className="container mx-auto flex justify-between items-center p-3">
         <img
           src={Logo}

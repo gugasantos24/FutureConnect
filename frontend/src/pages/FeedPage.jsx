@@ -4,34 +4,29 @@ import ProfileModal from "../components/ProfileModal.jsx";
 import SearchBar from "../components/common/SearchBar.jsx";
 import Header from "../components/common/Header.jsx";
 
-export default function FeedPage() {
-  const [allProfiles, setAllProfiles] = useState([]); // Começa vazio
-  const [filteredProfiles, setFilteredProfiles] = useState([]); // Começa vazio
+// 1. Recebe 'isDarkMode' e 'toggleDarkMode' como props
+export default function FeedPage({ isDarkMode, toggleDarkMode }) {
+  const [allProfiles, setAllProfiles] = useState([]);
+  const [filteredProfiles, setFilteredProfiles] = useState([]);
   const [selectedProfile, setSelectedProfile] = useState(null);
-  const [darkMode, setIsDarkMode] = useState(false);
-  const [isLoading, setIsLoading] = useState(true); // Estado de carregamento
+  const [isLoading, setIsLoading] = useState(true);
 
-  // useEffect para buscar os dados da API quando o componente montar
+  // useEffect para buscar os dados (sem alteração)
   useEffect(() => {
-    fetch("http://localhost:5000/api/profiles") // Busca dados do nosso backend
+    fetch("http://localhost:5000/api/profiles")
       .then((response) => response.json())
       .then((data) => {
         setAllProfiles(data);
         setFilteredProfiles(data);
-        setIsLoading(false); // Terminou de carregar
+        setIsLoading(false);
       })
       .catch((error) => {
         console.error("Erro ao buscar dados da API:", error);
-        setIsLoading(false); // Falhou em carregar
+        setIsLoading(false);
       });
-  }, []); // O array vazio [] significa que isso roda apenas UMA vez
+  }, []);
 
-  // Efeito para aplicar o Dark Mode
-  useEffect(() => {
-    document.documentElement.classList.toggle("dark", darkMode);
-  }, [darkMode]);
-
-  // Função de Busca e Filtro (sem alteração na lógica)
+  // Lógica de busca (sem alteração)
   const handleSearch = (term, area) => {
     let results = allProfiles;
     if (term) {
@@ -50,32 +45,27 @@ export default function FeedPage() {
     setFilteredProfiles(results);
   };
 
-  // Funções do Modal
+  // Funções do Modal (sem alteração)
   const openModal = (profile) => setSelectedProfile(profile);
   const closeModal = () => setSelectedProfile(null);
 
-  // Toggle Dark Mode
-  const toggleDarkMode = () => {
-    setIsDarkMode(!darkMode);
-  };
-
+  // 2. O 'return' JÁ NÃO TEM o div com "min-h-screen..."
   return (
-    <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
-      <Header darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
+    <div>
+      {/* 3. Passa as props recebidas para o Header */}
+      <Header isDarkMode={isDarkMode} toggleDarkMode={toggleDarkMode} />
 
       <main className="container mx-auto p-6">
         <SearchBar onSearch={handleSearch} />
 
-        {/* Mostra um aviso de "Carregando..." */}
         {isLoading && <p className="text-center mt-8">Carregando perfis...</p>}
 
-        {/* Grid de Cards */}
         {!isLoading && (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-8">
             {filteredProfiles.length > 0 ? (
               filteredProfiles.map((profile) => (
                 <ProfileCard
-                  key={profile.Id}
+                  key={profile.id} // <-- Já inclui a correção do 'key'
                   profile={profile}
                   onCardClick={() => openModal(profile)}
                 />
@@ -86,7 +76,6 @@ export default function FeedPage() {
           </div>
         )}
 
-        {/* Modal Interativo */}
         {selectedProfile && (
           <ProfileModal profile={selectedProfile} onClose={closeModal} />
         )}
