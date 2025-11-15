@@ -14,7 +14,7 @@ export default function SearchBar({ onSearch }) {
       onSubmit={handleSubmit}
       className="flex flex-col md:flex-row items-stretch gap-3 bg-white/70 dark:bg-gray-800/60 backdrop-blur-md p-4 rounded-2xl shadow-lg border border-gray-200 dark:border-gray-700 transition-all duration-300"
     >
-      <div className="relative grow"> 
+      <div className="relative grow">
         <input
           type="text"
           placeholder="Buscar por nome, cargo ou skill..."

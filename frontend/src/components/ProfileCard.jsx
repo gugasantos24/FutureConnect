@@ -17,7 +17,6 @@ export default function ProfileCard({ profile, onCardClick }) {
           {profile.cargo}
         </p>
         <div className="flex flex-wrap gap-2 mt-2">
-          {/* Mostra as 3 primeiras skills */}
           {profile.habilidadesTecnicas.slice(0, 3).map((skill) => (
             <span
               key={skill}

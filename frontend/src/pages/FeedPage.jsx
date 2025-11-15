@@ -4,14 +4,13 @@ import ProfileModal from "../components/ProfileModal.jsx";
 import SearchBar from "../components/common/SearchBar.jsx";
 import Header from "../components/common/Header.jsx";
 
-// 1. Recebe 'isDarkMode' e 'toggleDarkMode' como props
 export default function FeedPage({ isDarkMode, toggleDarkMode }) {
   const [allProfiles, setAllProfiles] = useState([]);
   const [filteredProfiles, setFilteredProfiles] = useState([]);
   const [selectedProfile, setSelectedProfile] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
 
-  // useEffect para buscar os dados (sem alteração)
+  // useEffect para buscar os dados
   useEffect(() => {
     fetch("http://localhost:5000/api/profiles")
       .then((response) => response.json())
@@ -26,7 +25,7 @@ export default function FeedPage({ isDarkMode, toggleDarkMode }) {
       });
   }, []);
 
-  // Lógica de busca (sem alteração)
+  // Lógica de busca
   const handleSearch = (term, area) => {
     let results = allProfiles;
     if (term) {
@@ -45,15 +44,12 @@ export default function FeedPage({ isDarkMode, toggleDarkMode }) {
     setFilteredProfiles(results);
   };
 
-  // Funções do Modal (sem alteração)
   const openModal = (profile) => setSelectedProfile(profile);
   const closeModal = () => setSelectedProfile(null);
 
-  // 2. O 'return' JÁ NÃO TEM o div com "min-h-screen..."
   return (
     <div>
-      {/* 3. Passa as props recebidas para o Header */}
-      <Header isDarkMode={isDarkMode} toggleDarkMode={toggleDarkMode} />
+      <Header IsDarkMode={isDarkMode} toggleDarkMode={toggleDarkMode} />
 
       <main className="container mx-auto p-6">
         <SearchBar onSearch={handleSearch} />
@@ -65,7 +61,7 @@ export default function FeedPage({ isDarkMode, toggleDarkMode }) {
             {filteredProfiles.length > 0 ? (
               filteredProfiles.map((profile) => (
                 <ProfileCard
-                  key={profile.id} // <-- Já inclui a correção do 'key'
+                  key={profile.id}
                   profile={profile}
                   onCardClick={() => openModal(profile)}
                 />
