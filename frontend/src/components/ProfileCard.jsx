@@ -10,7 +10,9 @@ export default function ProfileCard({ profile, onCardClick }) {
         alt={`Foto de ${profile.nome}`}
       />
       <div className="p-4 justify-center items-center flex flex-col ">
-        <h3 className="text-xl font-semibold mb-1">{profile.nome}</h3>
+        <h3 className="text-xl font-semibold mb-1 text-gray-900 dark:text-white">
+          {profile.nome}
+        </h3>
         <p className="text-blue-700 dark:text-blue-400 text-sm mb-2">
           {profile.cargo}
         </p>

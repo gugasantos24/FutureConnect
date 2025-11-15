@@ -35,8 +35,8 @@ app.post("/api/save-message", (req, res) => {
     profileId: req.body.profileId,
     profileName: req.body.profileName,
     messageType: req.body.messageType,
-    conteudo: req.body.messageText, 
-    timestamp: new Date().toISOString(), 
+    messageText: req.body.messageText,
+    timestamp: new Date().toISOString(), // Adiciona data e hora
   };
 
   // 2. Lê o arquivo de mensagens existente
