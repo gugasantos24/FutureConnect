@@ -47,7 +47,6 @@ export default function SearchBar({ onSearch }) {
         <option value="Desenvolvimento">Desenvolvimento</option>
         <option value="Design">Design</option>
         <option value="Dados">Dados</option>
-        <option value="Saúde">Saúde</option>
       </select>
 
       <button

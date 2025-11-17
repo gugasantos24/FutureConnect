@@ -1111,7 +1111,7 @@
   {
     "id": 18,
     "nome": "Gael Henrique da Mota",
-    "foto": "./images/foto18.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/retrato-de-um-jovem-sorridente-de-pe-ao-ar-livre_1048944-1656257.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Desenvolvedor Full-Stack",
     "resumo": "Synthesize innovative supply-chains",
     "localizacao": "Farias Verde/RS",
@@ -1176,7 +1176,7 @@
   {
     "id": 19,
     "nome": "Fernanda Macedo",
-    "foto": "./images/foto19.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/estilo-de-vida-ferias-de-verao-tecnologia-lazer-e-conceito-de-pessoas-jovem-sorridente-com-smartphone-e-fones-de-ouvido-deitado-na-grama_380164-64967.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Arquiteto de Soluções",
     "resumo": "Matrix bleeding-edge e-services",
     "localizacao": "Vargas de Sousa/RN",
@@ -1247,7 +1247,7 @@
   {
     "id": 20,
     "nome": "Julia Vieira",
-    "foto": "./images/foto20.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/feche-o-retrato-da-menina-bela-estudante-pronta-para-fazer-anotacoes-no-caderno-tendo-uma-aparencia-agradavel_176532-9672.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Analista de QA",
     "resumo": "Innovate b2c networks",
     "localizacao": "Casa Grande dos Dourados/PA",
@@ -1297,7 +1297,7 @@
   {
     "id": 21,
     "nome": "Matheus Cardoso",
-    "foto": "./images/foto21.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/jovem-morena-de-oculos-vermelhos_273609-22922.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Desenvolvedor Back-End",
     "resumo": "Aggregate cross-platform e-commerce",
     "localizacao": "Montenegro de Alves/RO",
@@ -1366,7 +1366,7 @@
   {
     "id": 22,
     "nome": "Camila Sampaio",
-    "foto": "./images/foto22.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/mulher-jovem-vestindo-camisa-listrada-e-oculos_273609-13230.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Analista de DevOps",
     "resumo": "Incubate rich roi",
     "localizacao": "Farias de Goiás/ES",
@@ -1433,7 +1433,7 @@
   {
     "id": 23,
     "nome": "Olívia Correia",
-    "foto": "./images/foto23.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/vista-frontal-de-mulher-bonita-no-parque_23-2148793926.jpg",
     "cargo": "Desenvolvedor Front-End",
     "resumo": "E-enable customized eyeballs",
     "localizacao": "Sá das Flores/GO",
@@ -1512,7 +1512,7 @@
   {
     "id": 24,
     "nome": "Rebeca Peixoto",
-    "foto": "./images/foto24.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/jovem-brasileira-ao-ar-livre-com-oculos-e-fazendo-sinal-de-ok_1368-363540.jpg",
     "cargo": "Tech Lead",
     "resumo": "Transform end-to-end applications",
     "localizacao": "Silveira/PA",
@@ -1581,7 +1581,7 @@
   {
     "id": 25,
     "nome": "Mariane Siqueira",
-    "foto": "./images/foto25.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/jovem-ao-ar-livre-com-oculos-e-aplaudindo_1368-492463.jpg?w=360",
     "cargo": "Arquiteto de Soluções",
     "resumo": "Scale mission-critical networks",
     "localizacao": "Pereira/MG",
@@ -1662,7 +1662,7 @@
   {
     "id": 26,
     "nome": "Matheus Vieira",
-    "foto": "./images/foto26.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/homem-sentado-na-grama-verde-com-fones-de-ouvido_87910-13446.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Analista de QA",
     "resumo": "Facilitate value-added initiatives",
     "localizacao": "Sales/GO",
@@ -1725,7 +1725,7 @@
   {
     "id": 27,
     "nome": "Juliana Carvalho",
-    "foto": "./images/foto27.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/estou-sempre-pronto-foto-de-uma-jovem-empresaria-atraente-sozinha-do-lado-de-fora-e-mostrando-um-polegar-para-cima_590464-58191.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Analista de DevOps",
     "resumo": "Deploy mission-critical portals",
     "localizacao": "Brito de Oliveira/MS",
@@ -1813,7 +1813,7 @@
   {
     "id": 28,
     "nome": "Apollo Rodrigues",
-    "foto": "./images/foto28.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/sorridente_23-2148015037.jpg",
     "cargo": "Tech Lead",
     "resumo": "Exploit e-business communities",
     "localizacao": "Mendes de Moraes/PA",
@@ -1878,7 +1878,7 @@
   {
     "id": 29,
     "nome": "Eduarda Lima",
-    "foto": "./images/foto29.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/mulher-bonita-vestida-formalmente-no-escritorio-com-telefone_273609-4621.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Engenheiro de Dados",
     "resumo": "Productize intuitive e-business",
     "localizacao": "Macedo da Serra/AP",
@@ -1935,7 +1935,7 @@
   {
     "id": 30,
     "nome": "Ana Júlia Gomes",
-    "foto": "./images/foto30.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/horizontal-retrato-de-sorrindo-feliz-jovem-agradavel-olhar-feminino-usa-camisa-jeans-e-oculos-elegantes-com-cabelos-loiros-lisos-expressa-positividade-poses_176420-13176.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Tech Lead",
     "resumo": "Facilitate bleeding-edge e-commerce",
     "localizacao": "Mendes/DF",
@@ -2007,7 +2007,7 @@
   {
     "id": 31,
     "nome": "Marcos Vinicius Farias",
-    "foto": "./images/foto31.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/retrato-de-um-jovem-caucasiano-moreno-barbudo-sorrindo-positivo-isolado-no-fundo-branco-do-estudio_154092-19605.jpg",
     "cargo": "Desenvolvedor Front-End",
     "resumo": "Iterate end-to-end content",
     "localizacao": "Duarte de Goiás/PA",
@@ -2073,7 +2073,7 @@
   {
     "id": 32,
     "nome": "Letícia da Rosa",
-    "foto": "./images/foto32.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/profissional-determinado-bonito-jovem-funcionario-armenio-mostrar-tarefa-bem-compreendida-gesto-fazer-gesto-correto-sorrindo-amplamente-concordar-acho-que-a-roupa-parece-excelente-fundo-branco-de-pe_176420-34998.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Engenheiro de Software",
     "resumo": "Disintermediate real-time initiatives",
     "localizacao": "da Cruz/RN",
@@ -2133,7 +2133,7 @@
   {
     "id": 33,
     "nome": "Isaac Andrade",
-    "foto": "./images/foto33.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/jovem-macho-positivo-com-cabelo-encaracolado_176532-8174.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Analista de QA",
     "resumo": "Engage frictionless info-mediaries",
     "localizacao": "Borges do Galho/SC",
@@ -2217,7 +2217,7 @@
   {
     "id": 34,
     "nome": "Bruna Cavalcanti",
-    "foto": "./images/foto34.jpg",
+    "foto": "https://static1.purepeople.com.br/articles/7/20/84/37/@/2402942-marina-ruy-barbosa-possui-22-milhoes-de-1200x0-1.jpg",
     "cargo": "Desenvolvedor Back-End",
     "resumo": "Brand dot-com deliverables",
     "localizacao": "Sampaio de Aragão/MA",
@@ -2286,7 +2286,7 @@
   {
     "id": 35,
     "nome": "Isaac Garcia",
-    "foto": "./images/foto35.jpg",
+    "foto": "https://st2.depositphotos.com/1017228/8581/i/450/depositphotos_85811372-stock-photo-side-view-portrait-of-a.jpg",
     "cargo": "Desenvolvedor Full-Stack",
     "resumo": "Benchmark bricks-and-clicks e-business",
     "localizacao": "Machado de Teixeira/CE",
@@ -2351,7 +2351,7 @@
   {
     "id": 36,
     "nome": "Alana Brito",
-    "foto": "./images/foto36.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/mulher-de-negocios-com-tablet_23-2148825860.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Desenvolvedor Full-Stack",
     "resumo": "Morph open-source e-services",
     "localizacao": "Silveira/AC",
@@ -2429,7 +2429,7 @@
   {
     "id": 37,
     "nome": "Anthony Sousa",
-    "foto": "./images/foto37.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/jovem-loira-chocada-e-bonito-sentado-a-mesa-com-o-telefone-e-a-xicara-segurando-o-queixo-e-olhando-para-o-lado-dentro-da-sala-de-estar_141793-70112.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Analista de DevOps",
     "resumo": "Benchmark vertical networks",
     "localizacao": "Abreu da Mata/DF",
@@ -2498,8 +2498,8 @@
   },
   {
     "id": 38,
-    "nome": "Sr. Marcos Vinicius Peixoto",
-    "foto": "./images/foto38.jpg",
+    "nome": "Marcos Vinicius Peixoto",
+    "foto": "https://img.freepik.com/fotos-gratis/homem-consideravel-e-bonito-trabalhando-no-laptop-em-casa_1262-5892.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Arquiteto de Soluções",
     "resumo": "Empower next-generation schemas",
     "localizacao": "Pastor de Rocha/BA",
@@ -2575,7 +2575,7 @@
   {
     "id": 39,
     "nome": "Diego Câmara",
-    "foto": "./images/foto39.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/jovem-empresario-africano-bem-sucedido-segurando-um-pedaco-de-papel_273609-9298.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Arquiteto de Soluções",
     "resumo": "Embrace intuitive niches",
     "localizacao": "Abreu da Praia/BA",
@@ -2650,7 +2650,7 @@
   {
     "id": 40,
     "nome": "Pietro Rezende",
-    "foto": "./images/foto40.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/grave-jovem-empresario-de-sucesso-em-terno-sentado-no-local-de-trabalho_176420-1240.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Desenvolvedor Full-Stack",
     "resumo": "Engineer 24/7 experiences",
     "localizacao": "Campos/PA",
@@ -2718,8 +2718,8 @@
   },
   {
     "id": 41,
-    "nome": "Sr. Enzo Caldeira",
-    "foto": "./images/foto41.jpg",
+    "nome": "Enzo Caldeira",
+    "foto": "https://img.freepik.com/fotos-premium/sorrindo-um-negro-confiante-do-milenio-posando-para-foto-olhando-para-a-camera_709984-1764.jpg",
     "cargo": "Cientista de Dados",
     "resumo": "Cultivate vertical portals",
     "localizacao": "Lima/SE",
@@ -2781,7 +2781,7 @@
   {
     "id": 42,
     "nome": "Maitê Cavalcante",
-    "foto": "./images/foto42.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/retrato-de-uma-crianca-feliz-alegre-e-bonita_1077802-143939.jpg",
     "cargo": "Engenheiro de Software",
     "resumo": "Brand 24/365 info-mediaries",
     "localizacao": "Ferreira/AM",
@@ -2845,7 +2845,7 @@
   {
     "id": 43,
     "nome": "Breno Silveira",
-    "foto": "./images/foto43.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/fotografia-de-png-retrato-de-homem-adulto_53876-678319.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Tech Lead",
     "resumo": "Seize wireless mindshare",
     "localizacao": "Peixoto/SP",
@@ -2922,8 +2922,8 @@
   },
   {
     "id": 44,
-    "nome": "Dr. Enzo Gabriel Cunha",
-    "foto": "./images/foto44.jpg",
+    "nome": "Enzo Gabriel Cunha",
+    "foto": "https://img.freepik.com/fotos-gratis/jovem-de-pe-sobre-fundo-isolado-deprimido-e-preocupado-com-angustia-chorando-com-raiva-e-medo-expressao-triste_839833-3815.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Arquiteto de Soluções",
     "resumo": "Orchestrate real-time schemas",
     "localizacao": "Casa Grande/SP",
@@ -2999,7 +2999,7 @@
   {
     "id": 45,
     "nome": "Luiz Gustavo Rios",
-    "foto": "./images/foto45.jpg",
+    "foto": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBlcmZpbHxlbnwwfHwwfHx8MA%3D%3D",
     "cargo": "Analista de DevOps",
     "resumo": "Mesh strategic methodologies",
     "localizacao": "Duarte de Farias/CE",
@@ -3060,7 +3060,7 @@
   {
     "id": 46,
     "nome": "Maria Júlia Souza",
-    "foto": "./images/foto46.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/uma-jovem-expressiva-com-cabelos-loiros_176420-28369.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "UX/UI Designer",
     "resumo": "Whiteboard integrated deliverables",
     "localizacao": "Oliveira Verde/GO",
@@ -3115,8 +3115,8 @@
   },
   {
     "id": 47,
-    "nome": "Srta. Giovanna Machado",
-    "foto": "./images/foto47.jpg",
+    "nome": "Giovanna Machado",
+    "foto": "https://img.freepik.com/fotos-gratis/linda-garota-feliz-sincera-sorrindo-rindo_176420-9689.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Engenheiro de Dados",
     "resumo": "Maximize cross-media action-items",
     "localizacao": "Moura/RN",
@@ -3183,8 +3183,8 @@
   },
   {
     "id": 48,
-    "nome": "Srta. Aylla da Conceição",
-    "foto": "./images/foto48.jpg",
+    "nome": "Aylla da Conceição",
+    "foto": "https://img.freepik.com/fotos-premium/foto-de-perfil-de-retrato-de-tiro-na-cabeca-de-uma-jovem-muito-sorridente-posando-dentro-de-casa-olhando-para-a-camera-cliente-satisfeito-do-sexo-feminino-deixando-feedback-de-comentario-de-video-de-bens-de-consumo-ou-servico-adquirido_774935-2108.jpg",
     "cargo": "Desenvolvedor Full-Stack",
     "resumo": "Drive distributed initiatives",
     "localizacao": "Castro/RO",
@@ -3255,7 +3255,7 @@
   {
     "id": 49,
     "nome": "Antônio Nascimento",
-    "foto": "./images/foto49.jpg",
+    "foto": "https://images.unsplash.com/photo-1695927621677-ec96e048dce2?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvdG8lMjBkbyUyMHBlcmZpbHxlbnwwfHwwfHx8MA%3D%3D",
     "cargo": "Cientista de Dados",
     "resumo": "Re-intermediate out-of-the-box convergence",
     "localizacao": "Câmara/PE",
@@ -3327,7 +3327,7 @@
   {
     "id": 50,
     "nome": "Larissa Freitas",
-    "foto": "./images/foto50.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/retrato-de-designer-de-mulher-e-sorriso-na-mesa-para-orgulho-de-documentos-e-gerenciamento-de-projetos-no-canada-feliz-jovem-engenheira-no-escritorio-com-estrategia-de-arquitetura-de-planejamento-de-confianca-na-empresa_590464-161266.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "UX/UI Designer",
     "resumo": "Integrate bleeding-edge eyeballs",
     "localizacao": "Borges/PA",
@@ -3369,7 +3369,7 @@
   {
     "id": 51,
     "nome": "Bruna Monteiro",
-    "foto": "./images/foto51.jpg",
+    "foto": "https://img.freepik.com/fotos-premium/mulher-de-negocios-olha-com-admiracao-para-longe-atraves-do-vidro_709984-15349.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Desenvolvedor Back-End",
     "resumo": "Synergize viral paradigms",
     "localizacao": "Mendonça do Campo/AC",
@@ -3437,7 +3437,7 @@
   {
     "id": 52,
     "nome": "Julia da Rosa",
-    "foto": "./images/foto52.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/sorrindo-trabalhador-feminino-posando-para-catalogo-de-negocios-da-empresa_1163-4801.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Engenheiro de Dados",
     "resumo": "Generate enterprise communities",
     "localizacao": "Pastor de Minas/RJ",
@@ -3497,7 +3497,7 @@
   {
     "id": 53,
     "nome": "Ágatha Melo",
-    "foto": "./images/foto53.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/sorrindo-negocio-mulher-olhar-cima-copia-espaco_1262-3088.jpg?semt=ais_hybrid&w=740&q=80",
     "cargo": "Desenvolvedor Back-End",
     "resumo": "Brand strategic methodologies",
     "localizacao": "da Cruz de da Costa/SC",
@@ -3565,7 +3565,7 @@
   {
     "id": 54,
     "nome": "Maria Flor Castro",
-    "foto": "./images/foto54.jpg",
+    "foto": "https://www.shutterstock.com/image-photo/friendly-english-tutor-woman-smiling-260nw-2695977907.jpg",
     "cargo": "Analista de QA",
     "resumo": "Morph plug-and-play networks",
     "localizacao": "da Paz da Prata/RR",
@@ -3634,7 +3634,7 @@
   {
     "id": 55,
     "nome": "Mariane Aparecida",
-    "foto": "./images/foto55.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/retrato-mulher-trabalhando-como-freelancer_23-2148604058.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "UX/UI Designer",
     "resumo": "Streamline viral eyeballs",
     "localizacao": "Pereira/AC",
@@ -3715,7 +3715,7 @@
   {
     "id": 56,
     "nome": "Ravi Lucca Sales",
-    "foto": "./images/foto56.jpg",
+    "foto": "https://assets.propmark.com.br/uploads/2023/02/13DanielOliveira-1.png",
     "cargo": "Analista de QA",
     "resumo": "Empower wireless convergence",
     "localizacao": "Sales/TO",
@@ -3797,7 +3797,7 @@
   {
     "id": 57,
     "nome": "Ester Garcia",
-    "foto": "./images/foto57.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/close-up-de-jovem-profissional-feminina-fazendo-contato-visual-contra-fundo-colorido_662251-651.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Desenvolvedor Front-End",
     "resumo": "Syndicate one-to-one models",
     "localizacao": "Jesus/TO",
@@ -3862,8 +3862,8 @@
   },
   {
     "id": 58,
-    "nome": "Sra. Mirella Mendes",
-    "foto": "./images/foto58.jpg",
+    "nome": "Mirella Mendes",
+    "foto": "https://img.freepik.com/fotos-gratis/retrato-de-uma-jovem-expressiva_1258-48167.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Engenheiro de Software",
     "resumo": "Architect e-business schemas",
     "localizacao": "Rodrigues/RO",
@@ -3938,7 +3938,7 @@
   {
     "id": 59,
     "nome": "Benjamin Costela",
-    "foto": "./images/foto59.jpg",
+    "foto": "https://alonsofotografia.com.br/wp-content/uploads/2020/07/fotos-perfil-profissional-ed-souza-1-786x1024.jpg",
     "cargo": "Product Manager",
     "resumo": "Streamline integrated relationships",
     "localizacao": "Freitas do Amparo/MS",
@@ -3992,7 +3992,7 @@
   {
     "id": 60,
     "nome": "Vicente da Paz",
-    "foto": "./images/foto60.jpg",
+    "foto": "https://img.freepik.com/fotos-gratis/retrato-de-homem-branco-isolado_53876-40306.jpg?semt=ais_incoming&w=740&q=80",
     "cargo": "Tech Lead",
     "resumo": "Aggregate clicks-and-mortar infrastructures",
     "localizacao": "Barros/TO",
