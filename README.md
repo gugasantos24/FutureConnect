@@ -6,16 +6,16 @@ Aqui está uma proposta de **README.md** profissional, visualmente impactante e 
 
 # 🚀🌐 FutureConnect - O Futuro do Networking
 
-**Tagline:** *Conectando talentos, habilidades e oportunidades em uma plataforma ágil e humanizada.*
+**Tagline:** *Conectando talentos, habilidades e oportunidades em uma plataforma ágil e humanizada.* 
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/React-20232a?style=for-the-badge\&logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232a%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB)" alt="React" /\>
-\<img src="[https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite)" alt="Vite" /\>
-\<img src="[https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite)" alt="Tailwind CSS" /\>
-\<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite)" alt="Node.js" /\>
-\<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite)" alt="Express" /\>
-\<img src="[https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/JSON-000000%3Fstyle%3Dfor-the-badge%26logo%3Djson%26logoColor%3Dwhite)" alt="JSON Data" /\>
-\</p\>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON Data" />
+</p>
 
 -----
 
@@ -51,7 +51,7 @@ O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Globa
 > *A interface foi pensada para ser limpa, intuitiva e focada no usuário.*
 
   - **Feed de Talentos & Filtros:**
-    \<img src="./frontend/src/assets/Logo.png" alt="Logo FutureConnect" width="200"/\>
+    <img src="./frontend/src/assets/Logo.png" alt="Logo FutureConnect" width="200"/>
     *(Substitua esta linha por um print real da tela inicial do seu projeto rodando)*
 
 -----
@@ -60,10 +60,10 @@ O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Globa
 
 | Categoria       | Tecnologia                                                                                                                                                                                                                                                                                                                                                                                                 | Descrição                                                      |
 | :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
-| **Frontend** | \<img src="[https://img.shields.io/badge/React-20232a?logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232a%3Flogo%3Dreact%26logoColor%3D61DAFB)" alt="React"/\> \<img src="[https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Flogo%3Dvite%26logoColor%3Dwhite)" alt="Vite"/\> \<img src="[https://img.shields.io/badge/Tailwind\_CSS-38B2AC?logo=tailwind-css\&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)" alt="Tailwind"/\> | Criação da interface visual rápida, interativa e bonita.       |
-| **Backend** | \<img src="[https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Flogo%3Dnodedotjs%26logoColor%3Dwhite)" alt="Node"/\> \<img src="[https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Flogo%3Dexpress%26logoColor%3Dwhite)" alt="Express"/\>                                                                                                                                                                                                  | Servidor que gerencia as requisições e a lógica de negócio.    |
-| **Dados** | \<img src="[https://img.shields.io/badge/JSON-File\_System-orange](https://www.google.com/search?q=https://img.shields.io/badge/JSON-File_System-orange)" alt="JSON FS"/\>                                                                                                                                                                                                                                                                                                                            | Armazenamento leve e portátil de perfis e mensagens (NoSQL).   |
-| **Ferramentas** | \<img src="[https://img.shields.io/badge/Eslint-4B32C3?logo=eslint\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Eslint-4B32C3%3Flogo%3Deslint%26logoColor%3Dwhite)" alt="Eslint"/\> \<img src="[https://img.shields.io/badge/Lucide\_Icons-pink](https://www.google.com/search?q=https://img.shields.io/badge/Lucide_Icons-pink)" alt="Lucide"/\>                                                                                                                                                                                                                                  | Padronização de código e ícones modernos para a interface.     |
+| **Frontend** | <img src="[https://img.shields.io/badge/React-20232a?logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232a%3Flogo%3Dreact%26logoColor%3D61DAFB)" alt="React"/> <img src="[https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Flogo%3Dvite%26logoColor%3Dwhite)" alt="Vite"/> <img src="[https://img.shields.io/badge/Tailwind\_CSS-38B2AC?logo=tailwind-css\&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)" alt="Tailwind"/> | Criação da interface visual rápida, interativa e bonita.       |
+| **Backend** | <img src="[https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Flogo%3Dnodedotjs%26logoColor%3Dwhite)" alt="Node"/> <img src="[https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Flogo%3Dexpress%26logoColor%3Dwhite)" alt="Express"/>                                                                                                                                                                                                  | Servidor que gerencia as requisições e a lógica de negócio.    |
+| **Dados** | <img src="[https://img.shields.io/badge/JSON-File\_System-orange](https://www.google.com/search?q=https://img.shields.io/badge/JSON-File_System-orange)" alt="JSON FS"/>                                                                                                                                                                                                                                                                                                                            | Armazenamento leve e portátil de perfis e mensagens (NoSQL).   |
+| **Ferramentas** | <img src="[https://img.shields.io/badge/Eslint-4B32C3?logo=eslint\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Eslint-4B32C3%3Flogo%3Deslint%26logoColor%3Dwhite)" alt="Eslint"/> <img src="[https://img.shields.io/badge/Lucide\_Icons-pink](https://www.google.com/search?q=https://img.shields.io/badge/Lucide_Icons-pink)" alt="Lucide"/>                                                                                                                                                                                                                                  | Padronização de código e ícones modernos para a interface.     |
 
 -----
 
