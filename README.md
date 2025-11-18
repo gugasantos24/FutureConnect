@@ -71,26 +71,6 @@ O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Globa
 
 -----
 
-## 🏗️ Arquitetura do Sistema
-
-### O projeto segue uma arquitetura cliente-servidor moderna:
-
-```mermaid
-graph LR;
-        Usuario["👤 Usuário/Recrutador"] -->|Acessa| Frontend["💻 Frontend (React/Vite)"];
-        Frontend -->|Busca Perfis (GET)| API["⚙️ Backend API (Express)"];
-        Frontend -->|Envia Mensagem (POST)| API;
-        API -->|Lê Dados| DB1["📂 profiles.json"];
-        API -->|Grava Mensagem| DB2["📂 messages.json"];
-
-        style Frontend fill:#61DAFB,stroke:#333,stroke-width:2px;
-        style API fill:#339933,stroke:#333,stroke-width:2px;
-        style DB1 fill:#f9f,stroke:#333,stroke-width:2px;
-        style DB2 fill:#f9f,stroke:#333,stroke-width:2px;
-```
-
------
-
 ## 🚀 Como Rodar o Projeto
 
 Para ver o **FutureConnect** funcionando na sua máquina, você precisará ter o [Node.js](https://nodejs.org/) instalado. Siga os passos abaixo:
