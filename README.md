@@ -52,7 +52,7 @@ O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Globa
 
   - **Feed de Talentos & Filtros:**
     <img src="./frontend/src/assets/Logo.png" alt="Logo FutureConnect" width="200"/>
-    <img src="./img/img.jpg >" alt="capa FutureConnect" width="200"/>
+    <img src="./img/img.jpg" alt="capa FutureConnect" width="200"/>
 
 -----
 
@@ -83,6 +83,7 @@ graph LR;
     style API fill:#339933,stroke:#333,stroke-width:2px;
     style DB1 fill:#f9f,stroke:#333,stroke-width:2px;
     style DB2 fill:#f9f,stroke:#333,stroke-width:2px;
+
 ```
 
 -----
