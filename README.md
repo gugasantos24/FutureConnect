@@ -52,7 +52,11 @@ O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Globa
 
   - **Feed de Talentos & Filtros:**
     <img src="./frontend/src/assets/Logo.png" alt="Logo FutureConnect" width="200"/>
-    <img src="./img/img.jpg" alt="capa FutureConnect" width="200"/>
+    
+
+-----
+
+<img src="./img/img.jpg" alt="capa FutureConnect" width="400"/>
 
 -----
 
@@ -73,17 +77,16 @@ O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Globa
 
 ```mermaid
 graph LR;
-    Usuario["👤 Usuário/Recrutador"] -->|Acessa| Frontend["💻 Frontend (React/Vite)"];
-    Frontend -->|Busca Perfis (GET)| API["⚙️ Backend API (Express)"];
-    Frontend -->|Envia Mensagem (POST)| API;
-    API -->|Lê Dados| DB1["📂 profiles.json"];
-    API -->|Grava Mensagem| DB2["📂 messages.json"];
+        Usuario["👤 Usuário/Recrutador"] -->|Acessa| Frontend["💻 Frontend (React/Vite)"];
+        Frontend -->|Busca Perfis (GET)| API["⚙️ Backend API (Express)"];
+        Frontend -->|Envia Mensagem (POST)| API;
+        API -->|Lê Dados| DB1["📂 profiles.json"];
+        API -->|Grava Mensagem| DB2["📂 messages.json"];
 
-    style Frontend fill:#61DAFB,stroke:#333,stroke-width:2px;
-    style API fill:#339933,stroke:#333,stroke-width:2px;
-    style DB1 fill:#f9f,stroke:#333,stroke-width:2px;
-    style DB2 fill:#f9f,stroke:#333,stroke-width:2px;
-
+        style Frontend fill:#61DAFB,stroke:#333,stroke-width:2px;
+        style API fill:#339933,stroke:#333,stroke-width:2px;
+        style DB1 fill:#f9f,stroke:#333,stroke-width:2px;
+        style DB2 fill:#f9f,stroke:#333,stroke-width:2px;
 ```
 
 -----
