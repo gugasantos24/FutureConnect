@@ -1,0 +1,152 @@
+Com certeza\! Analisei o código do repositório `FutureConnect` (Frontend em React/Vite + Tailwind e Backend em Node/Express). Percebi que se trata de uma plataforma de networking profissional focada no "Futuro do Trabalho", permitindo busca de talentos, visualização de skills e envio de mensagens/recomendações.
+
+Aqui está uma proposta de **README.md** profissional, visualmente impactante e estruturado para explicar o projeto para qualquer pessoa (técnica ou não), seguindo o padrão que você gostou.
+
+-----
+
+# 🚀🌐 FutureConnect - O Futuro do Networking
+
+**Tagline:** *Conectando talentos, habilidades e oportunidades em uma plataforma ágil e humanizada.*
+
+\<p align="center"\>
+\<img src="[https://img.shields.io/badge/React-20232a?style=for-the-badge\&logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232a%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB)" alt="React" /\>
+\<img src="[https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite)" alt="Vite" /\>
+\<img src="[https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite)" alt="Tailwind CSS" /\>
+\<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite)" alt="Node.js" /\>
+\<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite)" alt="Express" /\>
+\<img src="[https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/JSON-000000%3Fstyle%3Dfor-the-badge%26logo%3Djson%26logoColor%3Dwhite)" alt="JSON Data" /\>
+\</p\>
+
+-----
+
+## 📖 Sobre o Projeto
+
+O **FutureConnect** é uma plataforma digital desenvolvida como parte da **Global Solution** da FIAP, focada no desafio "O Futuro do Trabalho".
+
+**O Problema:** Em um mercado de trabalho cada vez mais dinâmico e remoto, encontrar o talento certo — ou a oportunidade certa — tornou-se um desafio de visibilidade. Currículos tradicionais não capturam a essência das *Soft Skills* (habilidades comportamentais) e a diversidade de talentos espalhados pelo país.
+
+**A Solução:** O FutureConnect é um hub de conexões. Ele permite que recrutadores e profissionais visualizem perfis de forma rica e interativa, filtrando não apenas por cargo, mas por habilidades técnicas e comportamentais. A plataforma facilita o primeiro passo da conexão: a recomendação e o contato direto.
+
+**Como funciona?**
+
+1.  **Frontend (A Vitrine):** Uma interface moderna e responsiva onde o usuário pode navegar por um "Feed de Talentos", usando filtros inteligentes para encontrar exatamente quem procura (ex: "Desenvolvedor" em "São Paulo" com "Liderança").
+2.  **Backend (O Cérebro):** Uma API robusta que gerencia os dados dos profissionais e processa o envio de mensagens e recomendações.
+3.  **Interação:** Ao encontrar um perfil interessante, o usuário pode abrir detalhes completos e enviar uma mensagem direta ou uma recomendação profissional, que é salva instantaneamente no sistema.
+
+-----
+
+## ✨ Funcionalidades Principais
+
+  - 🔍 **Busca Inteligente:** Filtre profissionais por nome, cargo, área de atuação (Dados, Design, Dev) ou competências específicas.
+  - 📋 **Perfis Detalhados:** Visualize cards com foto, resumo, experiências, formação, idiomas e, o mais importante: *Hard Skills* e *Soft Skills*.
+  - 💬 **Sistema de Mensagens:** Envie propostas de trabalho ou mensagens de networking diretamente pela plataforma.
+  - ⭐ **Recomendações:** Ferramenta para recomendar profissionais, fomentando uma comunidade colaborativa.
+  - 🌙 **Modo Escuro (Dark Mode):** Interface adaptável para conforto visual em qualquer horário de trabalho.
+  - 📱 **Totalmente Responsivo:** Funciona perfeitamente em computadores, tablets e celulares.
+
+-----
+
+## 📸 Telas do Projeto
+
+> *A interface foi pensada para ser limpa, intuitiva e focada no usuário.*
+
+  - **Feed de Talentos & Filtros:**
+    \<img src="./frontend/src/assets/Logo.png" alt="Logo FutureConnect" width="200"/\>
+    *(Substitua esta linha por um print real da tela inicial do seu projeto rodando)*
+
+-----
+
+## 🛠️ Tecnologias Utilizadas
+
+| Categoria       | Tecnologia                                                                                                                                                                                                                                                                                                                                                                                                 | Descrição                                                      |
+| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| **Frontend** | \<img src="[https://img.shields.io/badge/React-20232a?logo=react\&logoColor=61DAFB](https://www.google.com/search?q=https://img.shields.io/badge/React-20232a%3Flogo%3Dreact%26logoColor%3D61DAFB)" alt="React"/\> \<img src="[https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Flogo%3Dvite%26logoColor%3Dwhite)" alt="Vite"/\> \<img src="[https://img.shields.io/badge/Tailwind\_CSS-38B2AC?logo=tailwind-css\&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)" alt="Tailwind"/\> | Criação da interface visual rápida, interativa e bonita.       |
+| **Backend** | \<img src="[https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Flogo%3Dnodedotjs%26logoColor%3Dwhite)" alt="Node"/\> \<img src="[https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Flogo%3Dexpress%26logoColor%3Dwhite)" alt="Express"/\>                                                                                                                                                                                                  | Servidor que gerencia as requisições e a lógica de negócio.    |
+| **Dados** | \<img src="[https://img.shields.io/badge/JSON-File\_System-orange](https://www.google.com/search?q=https://img.shields.io/badge/JSON-File_System-orange)" alt="JSON FS"/\>                                                                                                                                                                                                                                                                                                                            | Armazenamento leve e portátil de perfis e mensagens (NoSQL).   |
+| **Ferramentas** | \<img src="[https://img.shields.io/badge/Eslint-4B32C3?logo=eslint\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Eslint-4B32C3%3Flogo%3Deslint%26logoColor%3Dwhite)" alt="Eslint"/\> \<img src="[https://img.shields.io/badge/Lucide\_Icons-pink](https://www.google.com/search?q=https://img.shields.io/badge/Lucide_Icons-pink)" alt="Lucide"/\>                                                                                                                                                                                                                                  | Padronização de código e ícones modernos para a interface.     |
+
+-----
+
+## 🏗️ Arquitetura do Sistema
+
+O projeto segue uma arquitetura cliente-servidor moderna:
+
+```mermaid
+graph LR;
+    Usuario["👤 Usuário/Recrutador"] -->|Acessa| Frontend["💻 Frontend (React/Vite)"];
+    Frontend -->|Busca Perfis (GET)| API["⚙️ Backend API (Express)"];
+    Frontend -->|Envia Mensagem (POST)| API;
+    API -->|Lê Dados| DB1["📂 profiles.json"];
+    API -->|Grava Mensagem| DB2["📂 messages.json"];
+
+    style Frontend fill:#61DAFB,stroke:#333,stroke-width:2px;
+    style API fill:#339933,stroke:#333,stroke-width:2px;
+    style DB1 fill:#f9f,stroke:#333,stroke-width:2px;
+    style DB2 fill:#f9f,stroke:#333,stroke-width:2px;
+```
+
+-----
+
+## 🚀 Como Rodar o Projeto
+
+Para ver o **FutureConnect** funcionando na sua máquina, você precisará ter o [Node.js](https://nodejs.org/) instalado. Siga os passos abaixo:
+
+### 1\. Clone o Repositório
+
+```bash
+git clone https://github.com/gugasantos24/futureconnect.git
+cd futureconnect
+```
+
+### 2\. Configurando o Backend (Servidor)
+
+Abra um terminal e navegue até a pasta do backend:
+
+```bash
+cd backend
+npm install  # Instala as dependências
+npm start    # Inicia o servidor na porta 5000
+```
+
+*Você verá a mensagem: `🚀 Backend rodando em http://localhost:5000`*
+
+### 3\. Configurando o Frontend (Interface)
+
+Abra **outro** terminal (mantenha o anterior aberto) e navegue até a pasta do frontend:
+
+```bash
+cd frontend
+npm install     # Instala as dependências (React, Tailwind, etc)
+npm run dev     # Inicia o site
+```
+
+*O terminal mostrará um link (geralmente `http://localhost:5173`). Clique nele para acessar o FutureConnect\!*
+
+-----
+
+## 📂 Estrutura de Dados
+
+O projeto utiliza arquivos JSON locais para simular um banco de dados, facilitando a portabilidade.
+
+  - **`profiles.json`**: Contém a lista de talentos com fotos, cargos, skills e histórico.
+  - **`messages.json`**: Armazena todas as mensagens e recomendações enviadas pela plataforma.
+
+-----
+
+## 👨‍💻 Desenvolvedores
+
+Time responsável pela criação do FutureConnect para a Global Solution:
+
+**RM:565191 Gabriel Akira Borges Kiyohara — FIAP (1ESPJ)**
+
+**RM:561820 Gustavo Santos — FIAP (1ESPJ)**
+
+**RM:556645 Mauro Carlos — FIAP (1ESPJ)**
+
+-----
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos. Sinta-se livre para usar como referência.
+
+© 2025 FutureConnect Team
